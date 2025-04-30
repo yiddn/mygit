@@ -1,0 +1,174 @@
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"s6Rkv7GLX3Rw9uENbigN6w", "kid":"JqJhDpnAW56J7lyxjI97Cg" } ], "type":"temporary" } 
+#EXTINF:-1 type="movie"  group-title="碟中谍" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/009288X0-portrait.jpg",Mission Impossible 1996
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5da594c7cbea8a6a4ef19ddc_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7LAgQh+fkhKAJKcFqFfegQ", "kid":"Q2fvRsvWU0KhzbKkqtVeNg" } ], "type":"temporary" } 
+#EXTINF:-1 type="movie"  group-title="碟中谍" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/016706X0-portrait.jpg",Mission Impossible II 2000
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d9db2ffcbea8a6a4ef0de04_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eED7a1AcvEBZDqs/2zgqtQ", "kid":"FvIf51F+WTynEg1wArnV2Q" } ], "type":"temporary" } 
+#EXTINF:-1 type="movie"  group-title="碟中谍" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/016957X0-portrait.jpg",Mission Impossible III 2006
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d9dae3fcbea8a6a4ef0dd7f_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NYRrrNN8UCd1uYbffaC5QA", "kid":"GU3VYXH/UnKtPFygDMqy8g" } ], "type":"temporary" } 
+#EXTINF:-1 type="movie"  group-title="碟中谍" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/014191X0-portrait.jpg",Mission Impossible: Ghost Protocol 2011
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5da5936ccbea8a6a4ef19db9_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"n/6mYP7P6LeL0G1UN4xMzw", "kid":"5AkQlKm4AHPRTRxGMIrjXQ" } ], "type":"temporary" } 
+#EXTINF:-1 type="movie"  group-title="碟中谍" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/019147X0-portrait.jpg",Mission Impossible: Rogue Nation 2015
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6431fd31d940521074cdc94c_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"YXgoa9lAtwmfjMxuMfFjAA", "kid":"PZg6ladgU8yy75W0woOJnQ" } ], "type":"temporary" } 
+#EXTINF:-1 type="movie"  group-title="碟中谍" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/022443X0-portrait.jpg",Mission Impossible: Fallout 2018
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8040e03ae366782ad9b50a_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"3Y/9vLbSd1ckqpu4j3bjMw", "kid":"mI+rdd+eJ+RZD9hvlhcVng" } ], "type":"temporary" } 
+#EXTINF:-1 type="movie"  group-title="碟中谍" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041486X0-portrait.jpg",Mission Impossible: Dead Reckoning 2023
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/660f681bd940521074fa821f_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"72st1VVQ8MaAF6zl2+1eWg","kid":"pg5Ju7lyXqCKOXwJaBiSoQ"}],"type":"temporary"}
+#EXTINF:-1 type="movie"" group-title="自杀小队" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020532X0-portrait.jpg",Suicide Squad 2016
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/602f2a6b6d048943f7754b2b_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"cpKeeHNcbfgm2Y6lEtvCpA","kid":"+mpmvNyoW7GA0PkF8yQ9LA"}],"type":"temporary"}
+#EXTINF:-1 type="movie"" group-title="自杀小队" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/033426X0-portrait.jpg",Suicide Squad 2021
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63bf8190d940521074c309c2_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
+#EXTINF:-1 type="movie" tvg-name="|007大破量子危机（cn）" tvg-logo="https://live.fanmingming.cn/tv/|007大破量子危机（cn）.png" group-title="007",|007大破量子危机（cn）
+https://vip1.lz-cdn6.com/20220920/28035_8dc6f598/index.m3u8
+#EXTINF:-1 type="movie" tvg-name="|007大破量子危机（en）" tvg-logo="https://live.fanmingming.cn/tv/|007大破量子危机（en）.png" group-title="007",|007大破量子危机（en）
+https://vip.lzcdn2.com/20220323/337_8f505661/index.m3u8
+#EXTINF:-1 type="movie" tvg-name="|007大破天幕杀机（en）" tvg-logo="https://live.fanmingming.cn/tv/|007大破天幕杀机（en）.png" group-title="007",|007大破天幕杀机（en）
+https://vip1.lz-cdn1.com/20220529/6934_c36dcb1b/index.m3u8
+#EXTINF:-1 type="movie" tvg-name="|007大战皇家赌场（cn）" tvg-logo="https://live.fanmingming.cn/tv/|007大战皇家赌场（cn）.png" group-title="007",|007大战皇家赌场（cn）
+https://vip1.lz-cdn6.com/20220920/28038_4b50b28f/index.m3u8
+#EXTINF:-1 type="movie" tvg-name="|007大战皇家赌场（en）" tvg-logo="https://live.fanmingming.cn/tv/|007大战皇家赌场（en）.png" group-title="007",|007大战皇家赌场（en）
+https://vip.lzcdn2.com/20220403/2196_fbfc3d3e/index.m3u8
+#EXTINF:-1 type="movie" tvg-name="|007无暇赴死（cn）" tvg-logo="https://live.fanmingming.cn/tv/|007无暇赴死（cn）.png" group-title="007",|007无暇赴死（cn）
+https://vip1.lz-cdn6.com/20220915/27792_6db8bec4/index.m3u8
+#EXTINF:-1 type="movie" tvg-name="|007无暇赴死（en）" tvg-logo="https://live.fanmingming.cn/tv/|007无暇赴死（en）.png" group-title="007",|007无暇赴死（en）
+https://vip1.lz-cdn6.com/20220915/27793_3d959ce5/index.m3u8
+#EXTINF:-1 type="movie" tvg-name="|007幽灵党（cn）" tvg-logo="https://live.fanmingming.cn/tv/|007幽灵党（cn）.png" group-title="007",|007幽灵党（cn）
+https://vip1.lz-cdn6.com/20220920/28040_76c03409/index.m3u8
+#EXTINF:-1 type="movie" tvg-name="|007幽灵党（en）" tvg-logo="https://live.fanmingming.cn/tv/|007幽灵党（en）.png" group-title="007",|007幽灵党（en）
+https://vip1.lz-cdn1.com/20220524/6680_5343a9c1/index.m3u8
+#EXTINF:-1 type="movie" tvg-name="|007别传之皇家夜总会（en）" tvg-logo="https://live.fanmingming.cn/tv/|007别传之皇家夜总会（en）.png" group-title="007",|007别传之皇家夜总会（en）
+https://vip1.lz-cdn6.com/20220920/28041_0f305a25/index.m3u8
+#EXTINF:-1 type="movie" tvg-name="|007大战猪肉王子（cn）" tvg-logo="https://live.fanmingming.cn/tv/|007大战猪肉王子（cn）.png" group-title="007",|007大战猪肉王子（cn）
+https://vip1.lz-cdn6.com/20220915/27794_e0a75e6d/index.m3u8
+#EXTINF:-1 type="movie" tvg-name="|007外传之巡弋飞弹（cn）" tvg-logo="https://live.fanmingming.cn/tv/|007外传之巡弋飞弹（cn）.png" group-title="007",|007外传之巡弋飞弹（cn）
+https://vip1.lz-cdn6.com/20220920/28042_faa432e1/index.m3u8
+#EXTINF:-1 type="movie" tvg-name="|007外传之巡弋飞弹（en）" tvg-logo="https://live.fanmingming.cn/tv/|007外传之巡弋飞弹（en）.png" group-title="007",|007外传之巡弋飞弹（en）
+https://vip1.lz-cdn6.com/20220920/28043_4309eb65/index.m3u8
+#EXTINF:-1 type="movie" tvg-name="|007之八爪女（cn）" tvg-logo="https://live.fanmingming.cn/tv/|007之八爪女（cn）.png" group-title="007",|007之八爪女（cn）
+https://vip1.lz-cdn6.com/20220920/28044_2a3dcf6f/index.m3u8
+#EXTINF:-1 type="movie" tvg-name="|007之八爪女（en）" tvg-logo="https://live.fanmingming.cn/tv/|007之八爪女（en）.png" group-title="007",|007之八爪女（en）
+https://vip1.lz-cdn6.com/20220920/28045_a0883f1f/index.m3u8
+#EXTINF:-1 type="movie" tvg-name="|007之俄罗斯之恋（cn）" tvg-logo="https://live.fanmingming.cn/tv/|007之俄罗斯之恋（cn）.png" group-title="007",|007之俄罗斯之恋（cn）
+https://vip1.lz-cdn6.com/20220920/28046_607d2aa4/index.m3u8
+#EXTINF:-1 type="movie" tvg-name="|007之俄罗斯之恋（en）" tvg-logo="https://live.fanmingming.cn/tv/|007之俄罗斯之恋（en）.png" group-title="007",|007之俄罗斯之恋（en）
+https://vip1.lz-cdn6.com/20220920/28047_bd8ba30c/index.m3u8
+#EXTINF:-1 type="movie" tvg-name="|007之海底城（cn）" tvg-logo="https://live.fanmingming.cn/tv/|007之海底城（cn）.png" group-title="007",|007之海底城（cn）
+https://vip1.lz-cdn6.com/20220920/28048_45d5bbc5/index.m3u8
+#EXTINF:-1 type="movie" tvg-name="|007之海底城（en）" tvg-logo="https://live.fanmingming.cn/tv/|007之海底城（en）.png" group-title="007",|007之海底城（en）
+https://vip1.lz-cdn6.com/20220920/28049_b57b43f5/index.m3u8
+#EXTINF:-1 type="movie" tvg-name="|007之黑日危机（cn）" tvg-logo="https://live.fanmingming.cn/tv/|007之黑日危机（cn）.png" group-title="007",|007之黑日危机（cn）
+https://vip1.lz-cdn6.com/20220920/28050_ca5e4750/index.m3u8
+#EXTINF:-1 type="movie" tvg-name="|007之黑日危机（en）" tvg-logo="https://live.fanmingming.cn/tv/|007之黑日危机（en）.png" group-title="007",|007之黑日危机（en）
+https://vip1.lz-cdn6.com/20220920/28051_4078afe1/index.m3u8
+#EXTINF:-1 type="movie" tvg-name="|007之黄金眼（cn）" tvg-logo="https://live.fanmingming.cn/tv/|007之黄金眼（cn）.png" group-title="007",|007之黄金眼（cn）
+https://vip1.lz-cdn6.com/20220920/28052_3909df24/index.m3u8
+#EXTINF:-1 type="movie" tvg-name="|007之黄金眼（en）" tvg-logo="https://live.fanmingming.cn/tv/|007之黄金眼（en）.png" group-title="007",|007之黄金眼（en）
+https://vip1.lz-cdn6.com/20220920/28053_072432dc/index.m3u8
+#EXTINF:-1 type="movie" tvg-name="|007之金刚钻（cn）" tvg-logo="https://live.fanmingming.cn/tv/|007之金刚钻（cn）.png" group-title="007",|007之金刚钻（cn）
+https://vip1.lz-cdn6.com/20220920/28054_f2832d6f/index.m3u8
+#EXTINF:-1 type="movie" tvg-name="|007之金刚钻（en）" tvg-logo="https://live.fanmingming.cn/tv/|007之金刚钻（en）.png" group-title="007",|007之金刚钻（en）
+https://vip1.lz-cdn6.com/20220920/28055_7cdf9435/index.m3u8
+#EXTINF:-1 type="movie" tvg-name="|007之金枪人（cn）" tvg-logo="https://live.fanmingming.cn/tv/|007之金枪人（cn）.png" group-title="007",|007之金枪人（cn）
+https://vip1.lz-cdn.com/20220917/33093_bd6ef017/index.m3u8
+#EXTINF:-1 type="movie" tvg-name="|007之金枪人（en）" tvg-logo="https://live.fanmingming.cn/tv/|007之金枪人（en）.png" group-title="007",|007之金枪人（en）
+https://vip1.lz-cdn.com/20220917/33094_370b7527/index.m3u8
+#EXTINF:-1 type="movie" tvg-name="|007之金手指（cn）" tvg-logo="https://live.fanmingming.cn/tv/|007之金手指（cn）.png" group-title="007",|007之金手指（cn）
+https://vip1.lz-cdn6.com/20220920/28056_815da9bf/index.m3u8
+#EXTINF:-1 type="movie" tvg-name="|007之金手指（en）" tvg-logo="https://live.fanmingming.cn/tv/|007之金手指（en）.png" group-title="007",|007之金手指（en）
+https://vip.lzcdn2.com/20220501/5200_07719ba9/index.m3u8
+#EXTINF:-1 type="movie" tvg-name="|007之雷霆谷（cn）" tvg-logo="https://live.fanmingming.cn/tv/|007之雷霆谷（cn）.png" group-title="007",|007之雷霆谷（cn）
+https://vip1.lz-cdn6.com/20220920/28057_5598b594/index.m3u8
+#EXTINF:-1 type="movie" tvg-name="|007之雷霆谷（en）" tvg-logo="https://live.fanmingming.cn/tv/|007之雷霆谷（en）.png" group-title="007",|007之雷霆谷（en）
+https://vip1.lz-cdn6.com/20220920/28058_8d40ac27/index.m3u8
+#EXTINF:-1 type="movie" tvg-name="|007之雷霆杀机（cn）" tvg-logo="https://live.fanmingming.cn/tv/|007之雷霆杀机（cn）.png" group-title="007",|007之雷霆杀机（cn）
+https://vip1.lz-cdn6.com/20220920/28059_163d7bcd/index.m3u8
+#EXTINF:-1 type="movie" tvg-name="|007之雷霆杀机（en）" tvg-logo="https://live.fanmingming.cn/tv/|007之雷霆杀机（en）.png" group-title="007",|007之雷霆杀机（en）
+https://vip1.lz-cdn6.com/20220920/28060_a9f8df88/index.m3u8
+#EXTINF:-1 type="movie" tvg-name="|007之黎明生机（cn）" tvg-logo="https://live.fanmingming.cn/tv/|007之黎明生机（cn）.png" group-title="007",|007之黎明生机（cn）
+https://vip1.lz-cdn6.com/20220920/28061_716bdc98/index.m3u8
+#EXTINF:-1 type="movie" tvg-name="|007之黎明生机（en）" tvg-logo="https://live.fanmingming.cn/tv/|007之黎明生机（en）.png" group-title="007",|007之黎明生机（en）
+https://vip1.lz-cdn6.com/20220920/28062_de8815cf/index.m3u8
+#EXTINF:-1 type="movie" tvg-name="|007之明日帝国（cn）" tvg-logo="https://live.fanmingming.cn/tv/|007之明日帝国（cn）.png" group-title="007",|007之明日帝国（cn）
+https://vip1.lz-cdn6.com/20220920/28063_3266194c/index.m3u8
+#EXTINF:-1 type="movie" tvg-name="|007之明日帝国（en）" tvg-logo="https://live.fanmingming.cn/tv/|007之明日帝国（en）.png" group-title="007",|007之明日帝国（en）
+https://vip1.lz-cdn6.com/20220920/28064_03c85b52/index.m3u8
+#EXTINF:-1 type="movie" tvg-name="|007之你死我活（cn）" tvg-logo="https://live.fanmingming.cn/tv/|007之你死我活（cn）.png" group-title="007",|007之你死我活（cn）
+https://vip1.lz-cdn6.com/20220920/28065_7d414c77/index.m3u8
+#EXTINF:-1 type="movie" tvg-name="|007之你死我活（en）" tvg-logo="https://live.fanmingming.cn/tv/|007之你死我活（en）.png" group-title="007",|007之你死我活（en）
+https://vip1.lz-cdn6.com/20220920/28066_39742e8d/index.m3u8
+#EXTINF:-1 type="movie" tvg-name="|007之诺博士（cn）" tvg-logo="https://live.fanmingming.cn/tv/|007之诺博士（cn）.png" group-title="007",|007之诺博士（cn）
+https://vip1.lz-cdn6.com/20220920/28067_81ec849b/index.m3u8
+#EXTINF:-1 type="movie" tvg-name="|007之诺博士（en）" tvg-logo="https://live.fanmingming.cn/tv/|007之诺博士（en）.png" group-title="007",|007之诺博士（en）
+https://vip1.lz-cdn6.com/20220920/28068_b21fb652/index.m3u8
+#EXTINF:-1 type="movie" tvg-name="|007之女王密使（cn）" tvg-logo="https://live.fanmingming.cn/tv/|007之女王密使（cn）.png" group-title="007",|007之女王密使（cn）
+https://vip1.lz-cdn6.com/20220920/28069_27f977d7/index.m3u8
+#EXTINF:-1 type="movie" tvg-name="|007之女王密使（en）" tvg-logo="https://live.fanmingming.cn/tv/|007之女王密使（en）.png" group-title="007",|007之女王密使（en）
+https://vip1.lz-cdn6.com/20220920/28070_571324d2/index.m3u8
+#EXTINF:-1 type="movie" tvg-name="|007之霹雳弹（cn）" tvg-logo="https://live.fanmingming.cn/tv/|007之霹雳弹（cn）.png" group-title="007",|007之霹雳弹（cn）
+https://vip1.lz-cdn6.com/20220920/28071_ee87d8e3/index.m3u8
+#EXTINF:-1 type="movie" tvg-name="|007之霹雳弹（en）" tvg-logo="https://live.fanmingming.cn/tv/|007之霹雳弹（en）.png" group-title="007",|007之霹雳弹（en）
+https://vip1.lz-cdn6.com/20220920/28072_c5bb9777/index.m3u8
+#EXTINF:-1 type="movie" tvg-name="|007之杀人执照（cn）" tvg-logo="https://live.fanmingming.cn/tv/|007之杀人执照（cn）.png" group-title="007",|007之杀人执照（cn）
+https://vip1.lz-cdn6.com/20220920/28073_9080939d/index.m3u8
+#EXTINF:-1 type="movie" tvg-name="|007之杀人执照（en）" tvg-logo="https://live.fanmingming.cn/tv/|007之杀人执照（en）.png" group-title="007",|007之杀人执照（en）
+https://vip.lzcdn2.com/20220507/5677_1802b166/index.m3u8
+#EXTINF:-1 type="movie" tvg-name="|007之太空城（cn）" tvg-logo="https://live.fanmingming.cn/tv/|007之太空城（cn）.png" group-title="007",|007之太空城（cn）
+https://vip1.lz-cdn6.com/20220920/28074_3019ac69/index.m3u8
+#EXTINF:-1 type="movie" tvg-name="|007之太空城（en）" tvg-logo="https://live.fanmingming.cn/tv/|007之太空城（en）.png" group-title="007",|007之太空城（en）
+https://vip1.lz-cdn6.com/20220920/28075_b809f292/index.m3u8
+#EXTINF:-1 type="movie" tvg-name="|007之择日而亡（cn）" tvg-logo="https://live.fanmingming.cn/tv/|007之择日而亡（cn）.png" group-title="007",|007之择日而亡（cn）
+https://vip1.lz-cdn6.com/20220915/27795_b95a204c/index.m3u8
+#EXTINF:-1 type="movie" tvg-name="|007之择日而亡（en）" tvg-logo="https://live.fanmingming.cn/tv/|007之择日而亡（en）.png" group-title="007",|007之择日而亡（en）
+https://vip1.lz-cdn6.com/20220915/27796_9bd4cd2b/index.m3u8
+#EXTINF:-1 type="movie" tvg-name="|007之最高机密（cn）" tvg-logo="https://live.fanmingming.cn/tv/|007之最高机密（cn）.png" group-title="007",|007之最高机密（cn）
+https://vip1.lz-cdn6.com/20220920/28076_0c5a0353/index.m3u8
+#EXTINF:-1 type="movie" tvg-name="|007之最高机密（en）" tvg-logo="https://live.fanmingming.cn/tv/|007之最高机密（en）.png" group-title="007",|007之最高机密（en）
+https://vip1.lz-cdn6.com/20220920/28077_3d6034f8/index.m3u8
+#EXTINF:-1 type="movie" tvg-name="|21座桥（en）" tvg-logo="https://live.fanmingming.cn/tv/|21座桥（en）.png" group-title="007",|21座桥（en）
+https://vip1.lz-cdn6.com/20220829/25456_414c209a/index.m3u8
+#EXTINF:-1 type="movie" tvg-name="|22英里（en）" tvg-logo="https://live.fanmingming.cn/tv/|22英里（en）.png" group-title="007",|22英里（en）
+https://vip1.lz-cdn1.com/20221113/18314_8b099636/index.m3u8
