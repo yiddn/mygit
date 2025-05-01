@@ -3634,3 +3634,9 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8ed670cbea8a6a4ee
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"0Hf8upw/CjWy3rqipyjjwQ","kid":"E6a+LkbJUTKTyCgLGxqufg"}],"type":"temporary"}
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d88abae717da66b073203e7_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/95w7tNp8GwniAebC2R0NYkXB79F.jpg" group-title="NETFLIX (MULTI LANGUAGE)",Love Death and Robots (2021)  S02 E01
+http://opplex.tv:8080/series/mother/mother/150056.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rlrRI2b6RvM9I9xOBTKqcTaehkE.jpg" group-title="NETFLIX (MULTI LANGUAGE)",Love Death and Robots (2019) S01 E01
+http://opplex.tv:8080/series/mother/mother/132347.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/www.artofvfx.com/wp-content/uploads/2022/04/LoveDeathAndRobots_S3_KeyArt.jpg?ssl=1" group-title="NETFLIX (MULTI LANGUAGE)",Love Death and Robots (2022)  S03 E01
