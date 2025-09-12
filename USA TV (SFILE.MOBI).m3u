@@ -1,0 +1,457 @@
+#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
+#EXTINF:-1 tvg-name="ABC (WABC)" tvg-logo="https://live.fanmingming.cn/tv/ABC (WABC).png",ABC (WABC)
+http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+#EXTINF:-1 tvg-name="ACC NETWORK" tvg-logo="https://live.fanmingming.cn/tv/ACC NETWORK.png",ACC NETWORK
+http://fl3.moveonjoy.com/ACC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-name="AMC" tvg-logo="https://live.fanmingming.cn/tv/AMC.png",AMC
+http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-name="American Heroes Channel" tvg-logo="https://live.fanmingming.cn/tv/American Heroes Channel.png",American Heroes Channel
+http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8
+#EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://live.fanmingming.cn/tv/Animal Planet.png",Animal Planet
+http://fl3.moveonjoy.com/Animal_Planet/index.m3u8
+#EXTINF:-1 tvg-name="Antenna" tvg-logo="https://live.fanmingming.cn/tv/Antenna.png",Antenna
+http://fl3.moveonjoy.com/Antenna/index.m3u8
+#EXTINF:-1 tvg-name="Aspire" tvg-logo="https://live.fanmingming.cn/tv/Aspire.png",Aspire
+http://fl3.moveonjoy.com/Aspire/index.m3u8
+#EXTINF:-1 tvg-name="BBC AMERICA" tvg-logo="https://live.fanmingming.cn/tv/BBC AMERICA.png",BBC AMERICA
+http://fl3.moveonjoy.com/BBC_AMERICA/index.m3u8
+#EXTINF:-1 tvg-name="BBC WORLD NEWS" tvg-logo="https://live.fanmingming.cn/tv/BBC WORLD NEWS.png",BBC WORLD NEWS
+http://fl3.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS" tvg-logo="https://live.fanmingming.cn/tv/BEIN SPORTS.png",BEIN SPORTS
+http://fl3.moveonjoy.com/BEIN_SPORTS/index.m3u8
+#EXTINF:-1 tvg-name="BET" tvg-logo="https://live.fanmingming.cn/tv/BET.png",BET
+http://fl3.moveonjoy.com/BET_EAST/index.m3u8
+#EXTINF:-1 tvg-name="BET GOSPEL" tvg-logo="https://live.fanmingming.cn/tv/BET GOSPEL.png",BET GOSPEL
+http://fl3.moveonjoy.com/BET_GOSPEL/index.m3u8
+#EXTINF:-1 tvg-name="BET HER" tvg-logo="https://live.fanmingming.cn/tv/BET HER.png",BET HER
+http://fl3.moveonjoy.com/BET_HER/index.m3u8
+#EXTINF:-1 tvg-name="BET Jams" tvg-logo="https://live.fanmingming.cn/tv/BET Jams.png",BET Jams
+http://fl3.moveonjoy.com/BET_Jams/index.m3u8
+#EXTINF:-1 tvg-name="BET SOUL" tvg-logo="https://live.fanmingming.cn/tv/BET SOUL.png",BET SOUL
+http://fl3.moveonjoy.com/BET_SOUL/index.m3u8
+#EXTINF:-1 tvg-name="Big Ten Network HD" tvg-logo="https://live.fanmingming.cn/tv/Big Ten Network HD.png",Big Ten Network HD
+http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
+#EXTINF:-1 tvg-name="BLOOMBERG" tvg-logo="https://live.fanmingming.cn/tv/BLOOMBERG.png",BLOOMBERG
+http://fl3.moveonjoy.com/BLOOMBERG/index.m3u8
+#EXTINF:-1 tvg-name="Boomerang" tvg-logo="https://live.fanmingming.cn/tv/Boomerang.png",Boomerang
+http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
+#EXTINF:-1 tvg-name="Bounce" tvg-logo="https://live.fanmingming.cn/tv/Bounce.png",Bounce
+http://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8
+#EXTINF:-1 tvg-name="BRAVO" tvg-logo="https://live.fanmingming.cn/tv/BRAVO.png",BRAVO
+http://fl3.moveonjoy.com/BRAVO/index.m3u8
+#EXTINF:-1 tvg-name="Buzzr" tvg-logo="https://live.fanmingming.cn/tv/Buzzr.png",Buzzr
+http://fl3.moveonjoy.com/Buzzr/index.m3u8
+#EXTINF:-1 tvg-name="C-SPAN" tvg-logo="https://live.fanmingming.cn/tv/C-SPAN.png",C-SPAN
+http://fl3.moveonjoy.com/C-SPAN/index.m3u8
+#EXTINF:-1 tvg-name="CARTOON NETWORK" tvg-logo="https://live.fanmingming.cn/tv/CARTOON NETWORK.png",CARTOON NETWORK
+http://fl3.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+#EXTINF:-1 tvg-name="CBS" tvg-logo="https://live.fanmingming.cn/tv/CBS.png",CBS
+http://fl3.moveonjoy.com/CBSEAST/index.m3u8
+#EXTINF:-1 tvg-name="CBS News" tvg-logo="https://live.fanmingming.cn/tv/CBS News.png",CBS News
+http://fl3.moveonjoy.com/CBS_News/index.m3u8
+#EXTINF:-1 tvg-name="CBS SPORTS NETWORK" tvg-logo="https://live.fanmingming.cn/tv/CBS SPORTS NETWORK.png",CBS SPORTS NETWORK
+http://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 tvg-name="CINEMAX EAST" tvg-logo="https://live.fanmingming.cn/tv/CINEMAX EAST.png",CINEMAX EAST
+http://fl3.moveonjoy.com/CINEMAX_EAST/index.m3u8
+#EXTINF:-1 tvg-name="CINEMAX EAST" tvg-logo="https://live.fanmingming.cn/tv/CINEMAX EAST.png",CINEMAX EAST
+http://fl3.moveonjoy.com/CINEMAX/index.m3u8
+#EXTINF:-1 tvg-name="CINEMAX MOREMAX" tvg-logo="https://live.fanmingming.cn/tv/CINEMAX MOREMAX.png",CINEMAX MOREMAX
+http://fl3.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
+#EXTINF:-1 tvg-name="CINEMAX WEST" tvg-logo="https://live.fanmingming.cn/tv/CINEMAX WEST.png",CINEMAX WEST
+http://fl3.moveonjoy.com/CINEMAX_WEST/index.m3u8
+#EXTINF:-1 tvg-name="Cleo TV" tvg-logo="https://live.fanmingming.cn/tv/Cleo TV.png",Cleo TV
+http://fl3.moveonjoy.com/Cleo_TV/index.m3u8
+#EXTINF:-1 tvg-name="CMT" tvg-logo="https://live.fanmingming.cn/tv/CMT.png",CMT
+http://fl3.moveonjoy.com/CMT/index.m3u8
+#EXTINF:-1 tvg-name="CNBC FHD" tvg-logo="https://live.fanmingming.cn/tv/CNBC FHD.png",CNBC FHD
+http://fl5.moveonjoy.com/CNBC/index.m3u8
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://live.fanmingming.cn/tv/CNN.png",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-name="CNN INTERNATIONAL" tvg-logo="https://live.fanmingming.cn/tv/CNN INTERNATIONAL.png",CNN INTERNATIONAL
+http://fl3.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
+#EXTINF:-1 tvg-name="COMEDY CENTRAL" tvg-logo="https://live.fanmingming.cn/tv/COMEDY CENTRAL.png",COMEDY CENTRAL
+http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
+#EXTINF:-1 tvg-name="COMET" tvg-logo="https://live.fanmingming.cn/tv/COMET.png",COMET
+http://fl3.moveonjoy.com/COMET/index.m3u8
+#EXTINF:-1 tvg-name="COOKING" tvg-logo="https://live.fanmingming.cn/tv/COOKING.png",COOKING
+http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-name="COURT TV" tvg-logo="https://live.fanmingming.cn/tv/COURT TV.png",COURT TV
+http://fl3.moveonjoy.com/COURT_TV/index.m3u8
+#EXTINF:-1 tvg-name="COZI TV" tvg-logo="https://live.fanmingming.cn/tv/COZI TV.png",COZI TV
+http://fl3.moveonjoy.com/COZI_TV/index.m3u8
+#EXTINF:-1 tvg-name="CRAVE 1" tvg-logo="https://live.fanmingming.cn/tv/CRAVE 1.png",CRAVE 1
+http://fl3.moveonjoy.com/CRAVE_1/index.m3u8
+#EXTINF:-1 tvg-name="CRAVE 2" tvg-logo="https://live.fanmingming.cn/tv/CRAVE 2.png",CRAVE 2
+http://fl3.moveonjoy.com/CRAVE_2/index.m3u8
+#EXTINF:-1 tvg-name="CRAVE 3" tvg-logo="https://live.fanmingming.cn/tv/CRAVE 3.png",CRAVE 3
+http://fl3.moveonjoy.com/CRAVE_3/index.m3u8
+#EXTINF:-1 tvg-name="CRAVE 4" tvg-logo="https://live.fanmingming.cn/tv/CRAVE 4.png",CRAVE 4
+http://fl3.moveonjoy.com/CRAVE_4/index.m3u8
+#EXTINF:-1 tvg-name="Crime + Investigation" tvg-logo="https://live.fanmingming.cn/tv/Crime + Investigation.png",Crime + Investigation
+http://fl3.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8
+#EXTINF:-1 tvg-name="Curiosity Stream" tvg-logo="https://live.fanmingming.cn/tv/Curiosity Stream.png",Curiosity Stream
+http://fl3.moveonjoy.com/Curiosity_Stream/index.m3u8
+#EXTINF:-1 tvg-name="Destination America" tvg-logo="https://live.fanmingming.cn/tv/Destination America.png",Destination America
+http://fl3.moveonjoy.com/Destination_America/index.m3u8
+#EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="https://live.fanmingming.cn/tv/Discovery Channel.png",Discovery Channel
+http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
+#EXTINF:-1 tvg-name="DISCOVERY FAMILY CHANNEL" tvg-logo="https://live.fanmingming.cn/tv/DISCOVERY FAMILY CHANNEL.png",DISCOVERY FAMILY CHANNEL
+http://fl3.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-name="DISCOVERY LIFE" tvg-logo="https://live.fanmingming.cn/tv/DISCOVERY LIFE.png",DISCOVERY LIFE
+http://fl3.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
+#EXTINF:-1 tvg-name="Discovery Science" tvg-logo="https://live.fanmingming.cn/tv/Discovery Science.png",Discovery Science
+http://fl3.moveonjoy.com/Discovery_Science/index.m3u8
+#EXTINF:-1 tvg-name="DISNEY CHANNEL" tvg-logo="https://live.fanmingming.cn/tv/DISNEY CHANNEL.png",DISNEY CHANNEL
+http://fl3.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-name="DISNEY JR" tvg-logo="https://live.fanmingming.cn/tv/DISNEY JR.png",DISNEY JR
+http://fl3.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:-1 tvg-name="DISNEY XD" tvg-logo="https://live.fanmingming.cn/tv/DISNEY XD.png",DISNEY XD
+http://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
+#EXTINF:-1 tvg-name="DIY" tvg-logo="https://live.fanmingming.cn/tv/DIY.png",DIY
+http://fl3.moveonjoy.com/DIY/index.m3u8
+#EXTINF:-1 tvg-name="E ENTERTAINMENT TELEVISION" tvg-logo="https://live.fanmingming.cn/tv/E ENTERTAINMENT TELEVISION.png",E ENTERTAINMENT TELEVISION
+http://fl3.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://live.fanmingming.cn/tv/ESPN.png",ESPN
+http://41.205.93.154/ESPN/index.m3u8
+#EXTINF:-1 tvg-name="ESPN 2" tvg-logo="https://live.fanmingming.cn/tv/ESPN 2.png",ESPN 2
+http://fl3.moveonjoy.com/ESPN_2/index.m3u8
+#EXTINF:-1 tvg-name="ESPN NEWS" tvg-logo="https://live.fanmingming.cn/tv/ESPN NEWS.png",ESPN NEWS
+http://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
+#EXTINF:-1 tvg-name="ESPN U" tvg-logo="https://live.fanmingming.cn/tv/ESPN U.png",ESPN U
+http://fl3.moveonjoy.com/ESPN_U/index.m3u8
+#EXTINF:-1 tvg-name="FOOD NETWORK" tvg-logo="https://live.fanmingming.cn/tv/FOOD NETWORK.png",FOOD NETWORK
+http://fl3.moveonjoy.com/FOOD_NETWORK/index.m3u8
+#EXTINF:-1 tvg-name="FOX (WNYW)" tvg-logo="https://live.fanmingming.cn/tv/FOX (WNYW).png",FOX (WNYW)
+http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
+#EXTINF:-1 tvg-name="FOX Business Network" tvg-logo="https://live.fanmingming.cn/tv/FOX Business Network.png",FOX Business Network
+http://fl3.moveonjoy.com/FOX_Business_Network/index.m3u8
+#EXTINF:-1 tvg-name="FOX SOUL" tvg-logo="https://live.fanmingming.cn/tv/FOX SOUL.png",FOX SOUL
+http://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
+#EXTINF:-1 tvg-name="Freeform" tvg-logo="https://live.fanmingming.cn/tv/Freeform.png",Freeform
+http://fl3.moveonjoy.com/FREE_FORM/index.m3u8
+#EXTINF:-1 tvg-name="FS1" tvg-logo="https://live.fanmingming.cn/tv/FS1.png",FS1
+http://fl3.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 tvg-name="Fuse" tvg-logo="https://live.fanmingming.cn/tv/Fuse.png",Fuse
+http://fl3.moveonjoy.com/FUSE/index.m3u8
+#EXTINF:-1 tvg-name="FX" tvg-logo="https://live.fanmingming.cn/tv/FX.png",FX
+http://fl3.moveonjoy.com/FX/index.m3u8
+#EXTINF:-1 tvg-name="FXM" tvg-logo="https://live.fanmingming.cn/tv/FXM.png",FXM
+http://fl3.moveonjoy.com/FX_MOVIE/index.m3u8
+#EXTINF:-1 tvg-name="FXX" tvg-logo="https://live.fanmingming.cn/tv/FXX.png",FXX
+http://fl3.moveonjoy.com/FXX/index.m3u8
+#EXTINF:-1 tvg-name="FYI FHD" tvg-logo="https://live.fanmingming.cn/tv/FYI FHD.png",FYI FHD
+http://fl3.moveonjoy.com/FYI/index.m3u8
+#EXTINF:-1 tvg-name="GAME SHOW NETWORK" tvg-logo="https://live.fanmingming.cn/tv/GAME SHOW NETWORK.png",GAME SHOW NETWORK
+http://fl5.moveonjoy.com/GAME_SHOW_NETWORK/index.m3u8
+#EXTINF:-1 tvg-name="getTV" tvg-logo="https://live.fanmingming.cn/tv/getTV.png",getTV
+http://fl3.moveonjoy.com/GET_TV/index.m3u8
+#EXTINF:-1 tvg-name="GRIT TV" tvg-logo="https://live.fanmingming.cn/tv/GRIT TV.png",GRIT TV
+http://fl3.moveonjoy.com/GRIT_TV/index.m3u8
+#EXTINF:-1 tvg-name="Hallmark Channel" tvg-logo="https://live.fanmingming.cn/tv/Hallmark Channel.png",Hallmark Channel
+http://fl3.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-name="Hallmark Family" tvg-logo="https://live.fanmingming.cn/tv/Hallmark Family.png",Hallmark Family
+http://fl3.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
+#EXTINF:-1 tvg-name="Hallmark Mystery" tvg-logo="https://live.fanmingming.cn/tv/Hallmark Mystery.png",Hallmark Mystery
+http://fl3.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
+#EXTINF:-1 tvg-name="HBO" tvg-logo="https://live.fanmingming.cn/tv/HBO.png",HBO
+http://fl3.moveonjoy.com/HBO/index.m3u8
+#EXTINF:-1 tvg-name="HBO Comedy" tvg-logo="https://live.fanmingming.cn/tv/HBO Comedy.png",HBO Comedy
+http://fl3.moveonjoy.com/HBO_COMEDY/index.m3u8
+#EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://live.fanmingming.cn/tv/HBO Family.png",HBO Family
+http://fl3.moveonjoy.com/HBO_FAMILY/index.m3u8
+#EXTINF:-1 tvg-name="HBO Zone" tvg-logo="https://live.fanmingming.cn/tv/HBO Zone.png",HBO Zone
+http://fl3.moveonjoy.com/HBO_ZONE/index.m3u8
+#EXTINF:-1 tvg-name="HBO2" tvg-logo="https://live.fanmingming.cn/tv/HBO2.png",HBO2
+http://fl3.moveonjoy.com/HBO_2/index.m3u8
+#EXTINF:-1 tvg-name="HGTV" tvg-logo="https://live.fanmingming.cn/tv/HGTV.png",HGTV
+http://fl3.moveonjoy.com/HGTV/index.m3u8
+#EXTINF:-1 tvg-name="HLN" tvg-logo="https://live.fanmingming.cn/tv/HLN.png",HLN
+http://fl3.moveonjoy.com/HLN/index.m3u8
+#EXTINF:-1 tvg-name="HSN" tvg-logo="https://live.fanmingming.cn/tv/HSN.png",HSN
+http://fl3.moveonjoy.com/HSN/index.m3u8
+#EXTINF:-1 tvg-name="ID (Investigation Discovery)" tvg-logo="https://live.fanmingming.cn/tv/ID (Investigation Discovery).png",ID (Investigation Discovery)
+http://fl3.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
+#EXTINF:-1 tvg-name="INSP TV" tvg-logo="https://live.fanmingming.cn/tv/INSP TV.png",INSP TV
+http://fl3.moveonjoy.com/INSP/index.m3u8
+#EXTINF:-1 tvg-name="ION" tvg-logo="https://live.fanmingming.cn/tv/ION.png",ION
+http://fl3.moveonjoy.com/ION_TV/index.m3u8
+#EXTINF:-1 tvg-name="ION Plus" tvg-logo="https://live.fanmingming.cn/tv/ION Plus.png",ION Plus
+http://fl3.moveonjoy.com/ION_Plus/index.m3u8
+#EXTINF:-1 tvg-name="Laff TV" tvg-logo="https://live.fanmingming.cn/tv/Laff TV.png",Laff TV
+http://72.46.118.193/Laff/index.m3u8
+#EXTINF:-1 tvg-name="Lifetime" tvg-logo="https://live.fanmingming.cn/tv/Lifetime.png",Lifetime
+http://fl3.moveonjoy.com/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-name="Lifetime Movies Network" tvg-logo="https://live.fanmingming.cn/tv/Lifetime Movies Network.png",Lifetime Movies Network
+http://fl3.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
+#EXTINF:-1 tvg-name="LOVE NATURE" tvg-logo="https://live.fanmingming.cn/tv/LOVE NATURE.png",LOVE NATURE
+http://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
+#EXTINF:-1 tvg-name="Marquee Sports Network" tvg-logo="https://live.fanmingming.cn/tv/Marquee Sports Network.png",Marquee Sports Network
+http://fl5.moveonjoy.com/MARQUEE_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 tvg-name="MAVTV" tvg-logo="https://live.fanmingming.cn/tv/MAVTV.png",MAVTV
+http://fl3.moveonjoy.com/MAV_TV/index.m3u8
+#EXTINF:-1 tvg-name="MeTV" tvg-logo="https://live.fanmingming.cn/tv/MeTV.png",MeTV
+http://fl3.moveonjoy.com/ME_TV/index.m3u8
+#EXTINF:-1 tvg-name="MGM+" tvg-logo="https://live.fanmingming.cn/tv/MGM+.png",MGM+
+http://fl3.moveonjoy.com/EPIX/index.m3u8
+#EXTINF:-1 tvg-name="MGM+ (Stream 2)" tvg-logo="https://live.fanmingming.cn/tv/MGM+ (Stream 2).png",MGM+ (Stream 2)
+http://fl3.moveonjoy.com/EPIX_2/index.m3u8
+#EXTINF:-1 tvg-name="MGM+ Drive-In" tvg-logo="https://live.fanmingming.cn/tv/MGM+ Drive-In.png",MGM+ Drive-In
+http://fl3.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
+#EXTINF:-1 tvg-name="MGM+ HITS" tvg-logo="https://live.fanmingming.cn/tv/MGM+ HITS.png",MGM+ HITS
+http://fl3.moveonjoy.com/EPIX_HITS/index.m3u8
+#EXTINF:-1 tvg-name="MLB 1" tvg-logo="https://live.fanmingming.cn/tv/MLB 1.png",MLB 1
+http://fl3.moveonjoy.com/MLB_1/index.m3u8
+#EXTINF:-1 tvg-name="MLB 2" tvg-logo="https://live.fanmingming.cn/tv/MLB 2.png",MLB 2
+http://fl3.moveonjoy.com/MLB_2/index.m3u8
+#EXTINF:-1 tvg-name="MLB 3" tvg-logo="https://live.fanmingming.cn/tv/MLB 3.png",MLB 3
+http://fl3.moveonjoy.com/MLB_3/index.m3u8
+#EXTINF:-1 tvg-name="MLB Network" tvg-logo="https://live.fanmingming.cn/tv/MLB Network.png",MLB Network
+http://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8
+#EXTINF:-1 tvg-name="MotorTrend" tvg-logo="https://live.fanmingming.cn/tv/MotorTrend.png",MotorTrend
+http://fl3.moveonjoy.com/MOTOR_TREND/index.m3u8
+#EXTINF:-1 tvg-name="MSG" tvg-logo="https://live.fanmingming.cn/tv/MSG.png",MSG
+http://fl3.moveonjoy.com/MSG/index.m3u8
+#EXTINF:-1 tvg-name="MSNBC" tvg-logo="https://live.fanmingming.cn/tv/MSNBC.png",MSNBC
+http://fl3.moveonjoy.com/MSNBC/index.m3u8
+#EXTINF:-1 tvg-name="MTV" tvg-logo="https://live.fanmingming.cn/tv/MTV.png",MTV
+http://fl3.moveonjoy.com/MTV/index.m3u8
+#EXTINF:-1 tvg-name="MTV Live" tvg-logo="https://live.fanmingming.cn/tv/MTV Live.png",MTV Live
+http://fl3.moveonjoy.com/MTV_LIVE/index.m3u8
+#EXTINF:-1 tvg-name="MTV2" tvg-logo="https://live.fanmingming.cn/tv/MTV2.png",MTV2
+http://fl3.moveonjoy.com/MTV_2/index.m3u8
+#EXTINF:-1 tvg-name="mtvU" tvg-logo="https://live.fanmingming.cn/tv/mtvU.png",mtvU
+http://fl3.moveonjoy.com/MTV_U/index.m3u8
+#EXTINF:-1 tvg-name="MUCH" tvg-logo="https://live.fanmingming.cn/tv/MUCH.png",MUCH
+http://fl1.moveonjoy.com/MUCH/index.m3u8
+#EXTINF:-1 tvg-name="National Geographic" tvg-logo="https://live.fanmingming.cn/tv/National Geographic.png",National Geographic
+http://fl3.moveonjoy.com/National_Geographic/index.m3u8
+#EXTINF:-1 tvg-name="National Geographic Wild" tvg-logo="https://live.fanmingming.cn/tv/National Geographic Wild.png",National Geographic Wild
+http://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+#EXTINF:-1 tvg-name="NBA 1" tvg-logo="https://live.fanmingming.cn/tv/NBA 1.png",NBA 1
+http://fl5.moveonjoy.com/NBA_1/index.m3u8
+#EXTINF:-1 tvg-name="NBA 10" tvg-logo="https://live.fanmingming.cn/tv/NBA 10.png",NBA 10
+http://fl5.moveonjoy.com/NBA_10/index.m3u8
+#EXTINF:-1 tvg-name="NBA 11" tvg-logo="https://live.fanmingming.cn/tv/NBA 11.png",NBA 11
+http://fl5.moveonjoy.com/NBA_11/index.m3u8
+#EXTINF:-1 tvg-name="NBA 12" tvg-logo="https://live.fanmingming.cn/tv/NBA 12.png",NBA 12
+http://fl5.moveonjoy.com/NBA_12/index.m3u8
+#EXTINF:-1 tvg-name="NBA 13" tvg-logo="https://live.fanmingming.cn/tv/NBA 13.png",NBA 13
+http://fl5.moveonjoy.com/NBA_13/index.m3u8
+#EXTINF:-1 tvg-name="NBA 2" tvg-logo="https://live.fanmingming.cn/tv/NBA 2.png",NBA 2
+http://fl5.moveonjoy.com/NBA_2/index.m3u8
+#EXTINF:-1 tvg-name="NBA 3" tvg-logo="https://live.fanmingming.cn/tv/NBA 3.png",NBA 3
+http://fl5.moveonjoy.com/NBA_3/index.m3u8
+#EXTINF:-1 tvg-name="NBA 4" tvg-logo="https://live.fanmingming.cn/tv/NBA 4.png",NBA 4
+http://fl5.moveonjoy.com/NBA_4/index.m3u8
+#EXTINF:-1 tvg-name="NBA 5" tvg-logo="https://live.fanmingming.cn/tv/NBA 5.png",NBA 5
+http://fl5.moveonjoy.com/NBA_5/index.m3u8
+#EXTINF:-1 tvg-name="NBA 6" tvg-logo="https://live.fanmingming.cn/tv/NBA 6.png",NBA 6
+http://fl5.moveonjoy.com/NBA_6/index.m3u8
+#EXTINF:-1 tvg-name="NBA 7" tvg-logo="https://live.fanmingming.cn/tv/NBA 7.png",NBA 7
+http://fl5.moveonjoy.com/NBA_7/index.m3u8
+#EXTINF:-1 tvg-name="NBA 8" tvg-logo="https://live.fanmingming.cn/tv/NBA 8.png",NBA 8
+http://fl5.moveonjoy.com/NBA_8/index.m3u8
+#EXTINF:-1 tvg-name="NBA 9" tvg-logo="https://live.fanmingming.cn/tv/NBA 9.png",NBA 9
+http://fl5.moveonjoy.com/NBA_9/index.m3u8
+#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://live.fanmingming.cn/tv/NBA TV.png",NBA TV
+http://fl3.moveonjoy.com/NBA_TV/index.m3u8
+#EXTINF:-1 tvg-name="NBA TV (Stream 2)" tvg-logo="https://live.fanmingming.cn/tv/NBA TV (Stream 2).png",NBA TV (Stream 2)
+http://fl5.moveonjoy.com/NBA_TV/index.m3u8
+#EXTINF:-1 tvg-name="NBC" tvg-logo="https://live.fanmingming.cn/tv/NBC.png",NBC
+http://fl3.moveonjoy.com/NBC_EAST/index.m3u8
+#EXTINF:-1 tvg-name="NBC Golf" tvg-logo="https://live.fanmingming.cn/tv/NBC Golf.png",NBC Golf
+http://fl3.moveonjoy.com/GOLF_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-name="NewsNation" tvg-logo="https://live.fanmingming.cn/tv/NewsNation.png",NewsNation
+http://fl3.moveonjoy.com/NEWS_NATION/index.m3u8
+#EXTINF:-1 tvg-name="NFL 1" tvg-logo="https://live.fanmingming.cn/tv/NFL 1.png",NFL 1
+http://fl3.moveonjoy.com/NFL_1/index.m3u8
+#EXTINF:-1 tvg-name="NFl 10" tvg-logo="https://live.fanmingming.cn/tv/NFl 10.png",NFl 10
+http://fl3.moveonjoy.com/NFL_10/index.m3u8
+#EXTINF:-1 tvg-name="NFL 11" tvg-logo="https://live.fanmingming.cn/tv/NFL 11.png",NFL 11
+http://fl3.moveonjoy.com/NFL_11/index.m3u8
+#EXTINF:-1 tvg-name="NFL 12" tvg-logo="https://live.fanmingming.cn/tv/NFL 12.png",NFL 12
+http://fl3.moveonjoy.com/NFL_12/index.m3u8
+#EXTINF:-1 tvg-name="NFL 13" tvg-logo="https://live.fanmingming.cn/tv/NFL 13.png",NFL 13
+http://fl3.moveonjoy.com/NFL_13/index.m3u8
+#EXTINF:-1 tvg-name="NFL 14" tvg-logo="https://live.fanmingming.cn/tv/NFL 14.png",NFL 14
+http://fl3.moveonjoy.com/NFL_14/index.m3u8
+#EXTINF:-1 tvg-name="NFL 15" tvg-logo="https://live.fanmingming.cn/tv/NFL 15.png",NFL 15
+http://fl3.moveonjoy.com/NFL_15/index.m3u8
+#EXTINF:-1 tvg-name="NFL 2" tvg-logo="https://live.fanmingming.cn/tv/NFL 2.png",NFL 2
+http://fl3.moveonjoy.com/NFL_2/index.m3u8
+#EXTINF:-1 tvg-name="NFL 3" tvg-logo="https://live.fanmingming.cn/tv/NFL 3.png",NFL 3
+http://fl3.moveonjoy.com/NFL_3/index.m3u8
+#EXTINF:-1 tvg-name="NFL 4" tvg-logo="https://live.fanmingming.cn/tv/NFL 4.png",NFL 4
+http://fl3.moveonjoy.com/NFL_4/index.m3u8
+#EXTINF:-1 tvg-name="NFL 5" tvg-logo="https://live.fanmingming.cn/tv/NFL 5.png",NFL 5
+http://fl3.moveonjoy.com/NFL_5/index.m3u8
+#EXTINF:-1 tvg-name="NFL 6" tvg-logo="https://live.fanmingming.cn/tv/NFL 6.png",NFL 6
+http://fl3.moveonjoy.com/NFL_6/index.m3u8
+#EXTINF:-1 tvg-name="NFL 7" tvg-logo="https://live.fanmingming.cn/tv/NFL 7.png",NFL 7
+http://fl3.moveonjoy.com/NFL_7/index.m3u8
+#EXTINF:-1 tvg-name="NFL 8" tvg-logo="https://live.fanmingming.cn/tv/NFL 8.png",NFL 8
+http://fl3.moveonjoy.com/NFL_8/index.m3u8
+#EXTINF:-1 tvg-name="NFL 9" tvg-logo="https://live.fanmingming.cn/tv/NFL 9.png",NFL 9
+http://fl3.moveonjoy.com/NFL_9/index.m3u8
+#EXTINF:-1 tvg-name="NFL Network" tvg-logo="https://live.fanmingming.cn/tv/NFL Network.png",NFL Network
+http://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-name="NFL RedZone" tvg-logo="https://live.fanmingming.cn/tv/NFL RedZone.png",NFL RedZone
+http://fl3.moveonjoy.com/NFL_RedZone/index.m3u8
+#EXTINF:-1 tvg-name="NHL 1" tvg-logo="https://live.fanmingming.cn/tv/NHL 1.png",NHL 1
+http://fl3.moveonjoy.com/NHL_1/index.m3u8
+#EXTINF:-1 tvg-name="NHL 10" tvg-logo="https://live.fanmingming.cn/tv/NHL 10.png",NHL 10
+http://fl5.moveonjoy.com/NHL_10/index.m3u8
+#EXTINF:-1 tvg-name="NHL 11" tvg-logo="https://live.fanmingming.cn/tv/NHL 11.png",NHL 11
+http://fl5.moveonjoy.com/NHL_11/index.m3u8
+#EXTINF:-1 tvg-name="NHL 13" tvg-logo="https://live.fanmingming.cn/tv/NHL 13.png",NHL 13
+http://fl5.moveonjoy.com/NHL_13/index.m3u8
+#EXTINF:-1 tvg-name="NHL 2" tvg-logo="https://live.fanmingming.cn/tv/NHL 2.png",NHL 2
+http://fl5.moveonjoy.com/NHL_2/index.m3u8
+#EXTINF:-1 tvg-name="NHL 3" tvg-logo="https://live.fanmingming.cn/tv/NHL 3.png",NHL 3
+http://fl3.moveonjoy.com/NHL_3/index.m3u8
+#EXTINF:-1 tvg-name="NHL 4" tvg-logo="https://live.fanmingming.cn/tv/NHL 4.png",NHL 4
+http://fl3.moveonjoy.com/NHL_4/index.m3u8
+#EXTINF:-1 tvg-name="NHL 5" tvg-logo="https://live.fanmingming.cn/tv/NHL 5.png",NHL 5
+http://fl3.moveonjoy.com/NHL_5/index.m3u8
+#EXTINF:-1 tvg-name="NHL 6" tvg-logo="https://live.fanmingming.cn/tv/NHL 6.png",NHL 6
+http://fl3.moveonjoy.com/NHL_6/index.m3u8
+#EXTINF:-1 tvg-name="NHL 7" tvg-logo="https://live.fanmingming.cn/tv/NHL 7.png",NHL 7
+http://fl3.moveonjoy.com/NHL_7/index.m3u8
+#EXTINF:-1 tvg-name="NHL 8" tvg-logo="https://live.fanmingming.cn/tv/NHL 8.png",NHL 8
+http://fl5.moveonjoy.com/NHL_8/index.m3u8
+#EXTINF:-1 tvg-name="NHL 9" tvg-logo="https://live.fanmingming.cn/tv/NHL 9.png",NHL 9
+http://fl3.moveonjoy.com/NHL_9/index.m3u8
+#EXTINF:-1 tvg-name="NHL Network" tvg-logo="https://live.fanmingming.cn/tv/NHL Network.png",NHL Network
+http://fl3.moveonjoy.com/NHL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://live.fanmingming.cn/tv/Nickelodeon.png",Nickelodeon
+http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-name="NickJr" tvg-logo="https://live.fanmingming.cn/tv/NickJr.png",NickJr
+http://fl3.moveonjoy.com/NICK_JR/index.m3u8
+#EXTINF:-1 tvg-name="NickMusic USA" tvg-logo="https://live.fanmingming.cn/tv/NickMusic USA.png",NickMusic USA
+http://fl3.moveonjoy.com/NICK_MUSIC/index.m3u8
+#EXTINF:-1 tvg-name="NickToons" tvg-logo="https://live.fanmingming.cn/tv/NickToons.png",NickToons
+http://fl1.moveonjoy.com/NICKTOONS/index.m3u8
+#EXTINF:-1 tvg-name="Oprah Winfrey Network" tvg-logo="https://live.fanmingming.cn/tv/Oprah Winfrey Network.png",Oprah Winfrey Network
+http://fl3.moveonjoy.com/OWN/index.m3u8
+#EXTINF:-1 tvg-name="Outdoor Channel" tvg-logo="https://live.fanmingming.cn/tv/Outdoor Channel.png",Outdoor Channel
+http://fl3.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-name="OUTER MAX" tvg-logo="https://live.fanmingming.cn/tv/OUTER MAX.png",OUTER MAX
+http://fl3.moveonjoy.com/OUTER_MAX/index.m3u8
+#EXTINF:-1 tvg-name="OUTSIDE TV" tvg-logo="https://live.fanmingming.cn/tv/OUTSIDE TV.png",OUTSIDE TV
+http://fl3.moveonjoy.com/OUTSIDE_TV/index.m3u8
+#EXTINF:-1 tvg-name="Ovation" tvg-logo="https://live.fanmingming.cn/tv/Ovation.png",Ovation
+http://fl3.moveonjoy.com/Ovation/index.m3u8
+#EXTINF:-1 tvg-name="Oxygen" tvg-logo="https://live.fanmingming.cn/tv/Oxygen.png",Oxygen
+http://fl3.moveonjoy.com/OXYGEN/index.m3u8
+#EXTINF:-1 tvg-name="Paramount Network" tvg-logo="https://live.fanmingming.cn/tv/Paramount Network.png",Paramount Network
+http://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1 tvg-name="PPV 1" tvg-logo="https://live.fanmingming.cn/tv/PPV 1.png",PPV 1
+http://fl3.moveonjoy.com/PPV_1/index.m3u8
+#EXTINF:-1 tvg-name="PPV 2" tvg-logo="https://live.fanmingming.cn/tv/PPV 2.png",PPV 2
+http://fl3.moveonjoy.com/PPV_2/index.m3u8
+#EXTINF:-1 tvg-name="PPV 3" tvg-logo="https://live.fanmingming.cn/tv/PPV 3.png",PPV 3
+http://fl3.moveonjoy.com/PPV_3/index.m3u8
+#EXTINF:-1 tvg-name="PPV 5" tvg-logo="https://live.fanmingming.cn/tv/PPV 5.png",PPV 5
+http://fl3.moveonjoy.com/PPV_5/index.m3u8
+#EXTINF:-1 tvg-name="PPV 6" tvg-logo="https://live.fanmingming.cn/tv/PPV 6.png",PPV 6
+http://fl3.moveonjoy.com/PPV_6/index.m3u8
+#EXTINF:-1 tvg-name="Pursuit Channel" tvg-logo="https://live.fanmingming.cn/tv/Pursuit Channel.png",Pursuit Channel
+http://fl3.moveonjoy.com/Pursuit_Channel/index.m3u8
+#EXTINF:-1 tvg-name="QVC" tvg-logo="https://live.fanmingming.cn/tv/QVC.png",QVC
+http://fl3.moveonjoy.com/QVC/index.m3u8
+#EXTINF:-1 tvg-name="ReelzChannel" tvg-logo="https://live.fanmingming.cn/tv/ReelzChannel.png",ReelzChannel
+http://fl3.moveonjoy.com/REELZ/index.m3u8
+#EXTINF:-1 tvg-name="Revolt" tvg-logo="https://live.fanmingming.cn/tv/Revolt.png",Revolt
+http://fl3.moveonjoy.com/REVOLT/index.m3u8
+#EXTINF:-1 tvg-name="Showtime East" tvg-logo="https://live.fanmingming.cn/tv/Showtime East.png",Showtime East
+http://fl3.moveonjoy.com/SHOWTIME/index.m3u8
+#EXTINF:-1 tvg-name="Showtime West" tvg-logo="https://live.fanmingming.cn/tv/Showtime West.png",Showtime West
+http://fl3.moveonjoy.com/SHOWTIME_WEST/index.m3u8
+#EXTINF:-1 tvg-name="Showtime 2" tvg-logo="https://live.fanmingming.cn/tv/Showtime 2.png",Showtime 2
+http://fl3.moveonjoy.com/SHOWTIME_2/index.m3u8
+#EXTINF:-1 tvg-name="Showtime Extreme" tvg-logo="https://live.fanmingming.cn/tv/Showtime Extreme.png",Showtime Extreme
+http://fl3.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
+#EXTINF:-1 tvg-name="Showtime Next" tvg-logo="https://live.fanmingming.cn/tv/Showtime Next.png",Showtime Next
+http://fl3.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+#EXTINF:-1 tvg-name="Showtime Women" tvg-logo="https://live.fanmingming.cn/tv/Showtime Women.png",Showtime Women
+http://fl3.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+#EXTINF:-1 tvg-name="SMITHSONIAN CHANNEL" tvg-logo="https://live.fanmingming.cn/tv/SMITHSONIAN CHANNEL.png",SMITHSONIAN CHANNEL
+http://fl3.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-name="Sony Movie Channel" tvg-logo="https://live.fanmingming.cn/tv/Sony Movie Channel.png",Sony Movie Channel
+http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
+#EXTINF:-1 tvg-name="Sportsman Channel" tvg-logo="https://live.fanmingming.cn/tv/Sportsman Channel.png",Sportsman Channel
+http://fl3.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-name="SportsNet New York" tvg-logo="https://live.fanmingming.cn/tv/SportsNet New York.png",SportsNet New York
+http://fl3.moveonjoy.com/SNY/index.m3u8
+#EXTINF:-1 tvg-name="Start TV" tvg-logo="https://live.fanmingming.cn/tv/Start TV.png",Start TV
+http://fl3.moveonjoy.com/Start_Tv/index.m3u8
+#EXTINF:-1 tvg-name="Starz" tvg-logo="https://live.fanmingming.cn/tv/Starz.png",Starz
+http://fl3.moveonjoy.com/STARZ/index.m3u8
+#EXTINF:-1 tvg-name="Starz Comedy" tvg-logo="https://live.fanmingming.cn/tv/Starz Comedy.png",Starz Comedy
+http://fl3.moveonjoy.com/STARZ_COMEDY/index.m3u8
+#EXTINF:-1 tvg-name="Starz Edge" tvg-logo="https://live.fanmingming.cn/tv/Starz Edge.png",Starz Edge
+http://fl3.moveonjoy.com/STARZ_EDGE/index.m3u8
+#EXTINF:-1 tvg-name="Starz Encore" tvg-logo="https://live.fanmingming.cn/tv/Starz Encore.png",Starz Encore
+http://fl3.moveonjoy.com/STARZ_ENCORE/index.m3u8
+#EXTINF:-1 tvg-name="Starz Encore Action" tvg-logo="https://live.fanmingming.cn/tv/Starz Encore Action.png",Starz Encore Action
+http://fl3.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
+#EXTINF:-1 tvg-name="STARZ ENCORE CLASSIC" tvg-logo="https://live.fanmingming.cn/tv/STARZ ENCORE CLASSIC.png",STARZ ENCORE CLASSIC
+http://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
+#EXTINF:-1 tvg-name="Starz Encore Westerns" tvg-logo="https://live.fanmingming.cn/tv/Starz Encore Westerns.png",Starz Encore Westerns
+http://fl3.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
+#EXTINF:-1 tvg-name="STARZ WEST" tvg-logo="https://live.fanmingming.cn/tv/STARZ WEST.png",STARZ WEST
+http://fl3.moveonjoy.com/STARZ_WEST/index.m3u8
+#EXTINF:-1 tvg-name="SundanceTV" tvg-logo="https://live.fanmingming.cn/tv/SundanceTV.png",SundanceTV
+http://fl3.moveonjoy.com/SUNDANCE/index.m3u8
+#EXTINF:-1 tvg-name="SYFY" tvg-logo="https://live.fanmingming.cn/tv/SYFY.png",SYFY
+http://fl3.moveonjoy.com/SYFY/index.m3u8
+#EXTINF:-1 tvg-name="TBS" tvg-logo="https://live.fanmingming.cn/tv/TBS.png",TBS
+http://fl1.moveonjoy.com/TBS/index.m3u8
+#EXTINF:-1 tvg-name="TCM" tvg-logo="https://live.fanmingming.cn/tv/TCM.png",TCM
+http://fl1.moveonjoy.com/TCM/index.m3u8
+#EXTINF:-1 tvg-name="Tennis Channel" tvg-logo="https://live.fanmingming.cn/tv/Tennis Channel.png",Tennis Channel
+http://fl3.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-name="Tennis Channel (Stream 2)" tvg-logo="https://live.fanmingming.cn/tv/Tennis Channel (Stream 2).png",Tennis Channel (Stream 2)
+http://fl5.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-name="TLC" tvg-logo="https://live.fanmingming.cn/tv/TLC.png",TLC
+http://fl3.moveonjoy.com/TLC/index.m3u8
+#EXTINF:-1 tvg-name="TNT" tvg-logo="https://live.fanmingming.cn/tv/TNT.png",TNT
+http://fl3.moveonjoy.com/TNT/index.m3u8
+#EXTINF:-1 tvg-name="Travel Channel" tvg-logo="https://live.fanmingming.cn/tv/Travel Channel.png",Travel Channel
+http://fl3.moveonjoy.com/Travel_Channel/index.m3u8
+#EXTINF:-1 tvg-name="truTV" tvg-logo="https://live.fanmingming.cn/tv/truTV.png",truTV
+http://fl3.moveonjoy.com/TRU_TV/index.m3u8
+#EXTINF:-1 tvg-name="TSN 1" tvg-logo="https://live.fanmingming.cn/tv/TSN 1.png",TSN 1
+http://fl5.moveonjoy.com/TSN_1/index.m3u8
+#EXTINF:-1 tvg-name="TSN 2" tvg-logo="https://live.fanmingming.cn/tv/TSN 2.png",TSN 2
+http://fl5.moveonjoy.com/TSN_2/index.m3u8
+#EXTINF:-1 tvg-name="TSN 3" tvg-logo="https://live.fanmingming.cn/tv/TSN 3.png",TSN 3
+http://fl5.moveonjoy.com/TSN_3/index.m3u8
+#EXTINF:-1 tvg-name="TSN 4" tvg-logo="https://live.fanmingming.cn/tv/TSN 4.png",TSN 4
+http://fl5.moveonjoy.com/TSN_4/index.m3u8
+#EXTINF:-1 tvg-name="TSN 5" tvg-logo="https://live.fanmingming.cn/tv/TSN 5.png",TSN 5
+http://fl5.moveonjoy.com/TSN_5/index.m3u8
+#EXTINF:-1 tvg-name="TVLand" tvg-logo="https://live.fanmingming.cn/tv/TVLand.png",TVLand
+http://fl3.moveonjoy.com/TV_Land/index.m3u8
+#EXTINF:-1 tvg-name="TVOne" tvg-logo="https://live.fanmingming.cn/tv/TVOne.png",TVOne
+http://fl3.moveonjoy.com/TV_ONE/index.m3u8
+#EXTINF:-1 tvg-name="UP TV" tvg-logo="https://live.fanmingming.cn/tv/UP TV.png",UP TV
+http://fl3.moveonjoy.com/Up_Tv/index.m3u8
+#EXTINF:-1 tvg-name="USA Network" tvg-logo="https://live.fanmingming.cn/tv/USA Network.png",USA Network
+http://fl3.moveonjoy.com/USA_Network/index.m3u8
+#EXTINF:-1 tvg-name="VH1" tvg-logo="https://live.fanmingming.cn/tv/VH1.png",VH1
+http://fl3.moveonjoy.com/VH1/index.m3u8
+#EXTINF:-1 tvg-name="Vice" tvg-logo="https://live.fanmingming.cn/tv/Vice.png",Vice
+http://fl3.moveonjoy.com/VICELAND/index.m3u8
+#EXTINF:-1 tvg-name="W NETWORK" tvg-logo="https://live.fanmingming.cn/tv/W NETWORK.png",W NETWORK
+http://fl3.moveonjoy.com/W_NETWORK/index.m3u8
+#EXTINF:-1 tvg-name="Weather Channel" tvg-logo="https://live.fanmingming.cn/tv/Weather Channel.png",Weather Channel
+http://fl3.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-name="WeTV" tvg-logo="https://live.fanmingming.cn/tv/WeTV.png",WeTV
+http://fl1.moveonjoy.com/WE_TV/index.m3u8
+#EXTINF:-1 tvg-name="WGN" tvg-logo="https://live.fanmingming.cn/tv/WGN.png",WGN
+http://fl3.moveonjoy.com/WGN/index.m3u8
+#EXTINF:-1 tvg-name="WORLD FISHING NETWORK" tvg-logo="https://live.fanmingming.cn/tv/WORLD FISHING NETWORK.png",WORLD FISHING NETWORK
+http://fl3.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
+#EXTINF:-1 tvg-name="YES Network" tvg-logo="https://live.fanmingming.cn/tv/YES Network.png",YES Network
+http://fl3.moveonjoy.com/YES_NETWORK/index.m3u8
