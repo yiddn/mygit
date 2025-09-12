@@ -1,0 +1,675 @@
+#EXTINF:-1 tvg-chno="1" ch-number="1" tvg-id="MVTV ท้องถิ่นไทย (75).th" tvg-name="MVTV ท้องถิ่นไทย (75)" tvg-logo="https://media-mvtv.imgix.net/channel/30_y_6j8hFgB9MRvUswTeCySxbJf3k74NQloE.png" group-title="Digital TV", MVTV ท้องถิ่นไทย (75)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb1-live-mv.v2h-cdn.com/hls/ffff/mvtv75/mvtv75.m3u8
+
+#EXTINF:-1 tvg-chno="2" ch-number="2" tvg-id="NBT.th" tvg-name="NBT" tvg-logo="https://media-mvtv.imgix.net/channel/115_y_fFG0J46IoYNzUjVKatsbL7vZByxiMqTm.png" group-title="Digital TV", NBT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb1-live-mv.v2h-cdn.com/hls/fffe/jvlbgvhf/jvlbgvhf.m3u8
+
+#EXTINF:-1 tvg-chno="3" ch-number="3" tvg-id="TPBS.th" tvg-name="TPBS" tvg-logo="https://media-mvtv.imgix.net/channel/116_y_cze67bhJwH8CIOaqnULfg0kKPAs2TQW1.png" group-title="Digital TV", TPBS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb1-live-mv.v2h-cdn.com/hls/fffd/muruugvl/muruugvl.m3u8
+
+#EXTINF:-1 tvg-chno="4" ch-number="4" tvg-id="ALTV.th" tvg-name="ALTV" tvg-logo="https://media-mvtv.imgix.net/channel/117_y_8JTfbUnwW9t2kuVh6ZpONEqv7MeBIsQR.png" group-title="Digital TV", ALTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb1-live-mv.v2h-cdn.com/hls/fffc/gvcvmuu/gvcvmuu.m3u8
+
+#EXTINF:-1 tvg-chno="5" ch-number="5" tvg-id="5HD.th" tvg-name="5HD" tvg-logo="https://media-mvtv.imgix.net/channel/118_y_0kEyP9Yrw5jTWflXevIZ1Dqhoa2mi4QO.png" group-title="Digital TV", 5HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb1-live-mv.v2h-cdn.com/hls/fffb/muushk/muushk.m3u8
+
+#EXTINF:-1 tvg-chno="6" ch-number="6" tvg-id="Boomerang.th" tvg-name="Boomerang" tvg-logo="https://media-mvtv8.imgix.net/channel/153_y_3V9s1SWHcnaNILkoXMmF8GER4ZTrxJvg.jpg" group-title="Digital TV", Boomerang
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
+
+#EXTINF:-1 tvg-chno="7" ch-number="7" tvg-id="T SPORT.th" tvg-name="T SPORT" tvg-logo="https://media-mvtv.imgix.net/channel/119_y_OhjxHr9fqS2i0NJvPUlcL85mn6e4FoIu.png" group-title="Digital TV", T SPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb1-live-mv.v2h-cdn.com/hls/ffef/mulxvnghf/mulxvnghf.m3u8
+
+#EXTINF:-1 tvg-chno="8" ch-number="8" tvg-id="MVMall Trend.th" tvg-name="MVMall Trend" tvg-logo="https://media-mvtv2.imgix.net/channel/89_y_l7aeSDC2FoVrMXdqQ93vutZisHmhxykL.jpg" group-title="Digital TV", MVMall Trend
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb1-live-mv.v2h-cdn.com/hls/fdfe/mvmalltrend/mvmalltrend.m3u8
+
+#EXTINF:-1 tvg-chno="9" ch-number="9" tvg-id="MVMall Plus (51).th" tvg-name="MVMall Plus (51)" tvg-logo="https://media-mvtv6.imgix.net/channel/32_y_FVzqJyNiGrdE0seQxCptgUcfmOYbnhLK.png" group-title="Digital TV", MVMall Plus (51)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb1-live-mv.v2h-cdn.com/hls/fded/mvmallplus/mvmallplus.m3u8
+
+#EXTINF:-1 tvg-chno="10" ch-number="10" tvg-id="TPTV.th" tvg-name="TPTV" tvg-logo="https://media-mvtv.imgix.net/channel/120_y_VSgE7P9GiDCxrhFWUALYpvzfM12cdqmH.png" group-title="Digital TV", TPTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb1-live-mv.v2h-cdn.com/hls/ffec/murumuu/murumuu.m3u8
+
+#EXTINF:-1 tvg-chno="11" ch-number="11" tvg-id="MVMall Healthy (58).th" tvg-name="MVMall Healthy (58)" tvg-logo="https://media-mvtv.imgix.net/channel/36_y_LzOCkoTG95mZhJ6IrADcMafyPQ1qVBE4.png" group-title="Digital TV", MVMall Healthy (58)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb1-live-mv.v2h-cdn.com/hls/fdff/mvmallhelth/mvmallhelth.m3u8
+
+#EXTINF:-1 tvg-chno="12" ch-number="12" tvg-id="MVMall DD (59).th" tvg-name="MVMall DD (59)" tvg-logo="https://media-mvtv.imgix.net/channel/40_y_R3MIzeVEgNlZovn5byXDchKdr9P12QfF.jpg" group-title="Digital TV", MVMall DD (59)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb1-live-mv.v2h-cdn.com/hls/fdee/mvmalldd/mvmalldd.m3u8
+
+#EXTINF:-1 tvg-chno="15" ch-number="15" tvg-id="MVMall Living (26).th" tvg-name="MVMall Living (26)" tvg-logo="https://media-mvtv.imgix.net/channel/171_y_XOJ6qMirnDGuk01TLQjlWho5PtKSa9Ud.png" group-title="Digital TV", MVMall Living (26)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+http://edge2a.v2h-cdn.com/mvmall_living/mvmall_living.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="16" ch-number="16" tvg-id="TNN.th" tvg-name="TNN" tvg-logo="https://media-mvtv.imgix.net/channel/121_y_uQNBde5zrpo4TKm9kOZPx6iRbGaACfFE.png" group-title="Digital TV", TNN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb1-live-mv.v2h-cdn.com/hls/ffdc/mugvhogvho/mugvhogvho.m3u8
+
+#EXTINF:-1 tvg-chno="17" ch-number="17" tvg-id="MVMall Family (40).th" tvg-name="MVMall Family (40)" tvg-logo="https://media-mvtv.imgix.net/channel/107_y_aNzHOm07eZL1nc5MkpIUTBfPGit2qE4y.png" group-title="Digital TV", MVMall Family (40)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb1-live-mv.v2h-cdn.com/hls/ffdb/mvmallfamily/mvmallfamily.m3u8
+
+#EXTINF:-1 tvg-chno="18" ch-number="18" tvg-id="JKN18.th" tvg-name="JKN18" tvg-logo="https://media-mvtv.imgix.net/channel/122_y_bzfht4O5uRNHylcq1D6nV9TvxmdXWaQP.png" group-title="Digital TV", JKN18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8
+
+#EXTINF:-1 tvg-chno="21" ch-number="21" tvg-id="ไทบ้านทีวี.th" tvg-name="ไทบ้านทีวี" tvg-logo="https://media-mvtv.imgix.net/channel/35_y_V2hcyg7xD4BpCIPSJT0un8zWYL6bAqfi.png" group-title="Digital TV", ไทบ้านทีวี
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb1-live-mv.v2h-cdn.com/hls/ffcd/thaibaan/thaibaan.m3u8
+
+#EXTINF:-1 tvg-chno="22" ch-number="22" tvg-id="Nation.th" tvg-name="Nation" tvg-logo="https://media-mvtv.imgix.net/channel/123_y_3vyW276UFjIStew9DHJNs8AGKfdmZXpu.png" group-title="Digital TV", Nation
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb1-live-mv.v2h-cdn.com/hls/ffcc/goyjo/goyjo.m3u8
+
+#EXTINF:-1 tvg-chno="23" ch-number="23" tvg-id="Workpoint.th" tvg-name="Workpoint" tvg-logo="https://media-mvtv.imgix.net/channel/124_y_1PI2djLbMJpXO0n5oywKiNDzsWfTuFg4.png" group-title="Digital TV", Workpoint
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb1-live-mv.v2h-cdn.com/hls/ffcb/gbinrvp/gbinrvp.m3u8
+
+#EXTINF:-1 tvg-chno="24" ch-number="24" tvg-id="True24.th" tvg-name="True24" tvg-logo="https://media-mvtv.imgix.net/channel/125_y_vQwogyPUC1FsRhK9TmzSWqb8YI6aktcM.png" group-title="Digital TV", True24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb1-live-mv.v2h-cdn.com/hls/ffca/mifainp/mifainp.m3u8
+
+#EXTINF:-1 tvg-chno="25" ch-number="25" tvg-id="GMM25.th" tvg-name="GMM25" tvg-logo="https://media-mvtv.imgix.net/channel/126_y_6PH49bDqlg1aSxGoNUdT83R5Jkeyf2mB.png" group-title="Digital TV", GMM25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb1-live-mv.v2h-cdn.com/hls/ffbf/ugvhgvh/ugvhgvh.m3u8
+
+#EXTINF:-1 tvg-chno="26" ch-number="26" tvg-id="MVTV ท้องถิ่นไทย (75).th" tvg-name="MVTV ท้องถิ่นไทย (75)" tvg-logo="https://media-mvtv.imgix.net/channel/187_y_O07IcMfWXzK1n4qD6YSswUxrv5btZJmk.png" group-title="Digital TV", MVTV ท้องถิ่นไทย (75)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb1-live-mv.v2h-cdn.com/hls/ffff/mvtv75/mvtv75.m3u8
+
+#EXTINF:-1 tvg-chno="27" ch-number="27" tvg-id="ช่อง 8.th" tvg-name="ช่อง 8" tvg-logo="https://media-mvtv.imgix.net/channel/127_y_uhsXzFBxYD6Wq2mpZeIUb4M7RK1ECkn8.png" group-title="Digital TV", ช่อง 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb1-live-mv.v2h-cdn.com/hls/ffbe/jvcxf/jvcxf.m3u8
+
+#EXTINF:-1 tvg-chno="28" ch-number="28" tvg-id="Boom Cartoon.th" tvg-name="Boom Cartoon" tvg-logo="https://media-mvtv.imgix.net/channel/188_y_SHbpOor8a2ClM0g3LFcsT5I4GkRmu6q9.jpg" group-title="Digital TV", Boom Cartoon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
+
+#EXTINF:-1 tvg-chno="29" ch-number="29" tvg-id="MONO 29.th" tvg-name="MONO 29" tvg-logo="https://media-mvtv.imgix.net/channel/128_y_KUvdGmb2hpV41ni5rCk9OlFoXePMA80Q.png" group-title="Digital TV", MONO 29
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb1-live-mv.v2h-cdn.com/hls/ffbc/ffolvgdhk/ffolvgdhk.m3u8
+
+#EXTINF:-1 tvg-chno="30" ch-number="30" tvg-id="MCOT.th" tvg-name="MCOT" tvg-logo="https://media-mvtv.imgix.net/channel/129_y_hG7Nj2qWnldBu0fkMDyvT8CwYXLI649F.png" group-title="Digital TV", MCOT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb1-live-mv.v2h-cdn.com/hls/ffbb/gdhk/gdhk.m3u8
+
+#EXTINF:-1 tvg-chno="31" ch-number="31" tvg-id="ONE.th" tvg-name="ONE" tvg-logo="https://media-mvtv.imgix.net/channel/130_y_3Lx4j6ZzpIidKPqChaF2QRYeWorw79Jv.png" group-title="Digital TV", ONE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb1-live-mv.v2h-cdn.com/hls/ffba/yogvfi/yogvfi.m3u8
+
+#EXTINF:-1 tvg-chno="32" ch-number="32" tvg-id="Thairath.th" tvg-name="Thairath" tvg-logo="https://media-mvtv.imgix.net/channel/131_y_iJmHlFadZ0G8EhIYMw2A3OfbN1Qpzgou.png" group-title="Digital TV", Thairath
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb1-live-mv.v2h-cdn.com/hls/ffaf/wmpiy/wmpiy.m3u8
+
+#EXTINF:-1 tvg-chno="33" ch-number="33" tvg-id="3HD.th" tvg-name="3HD" tvg-logo="https://media-mvtv.imgix.net/channel/132_y_TFYiXWvrUf4s8tbIwJ29S3zMNeqghGmB.png" group-title="Digital TV", 3HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb1-live-mv.v2h-cdn.com/hls/ffae/muulk/muulk.m3u8
+
+#EXTINF:-1 tvg-chno="34" ch-number="34" tvg-id="Amarin.th" tvg-name="Amarin" tvg-logo="https://media-mvtv.imgix.net/channel/133_y_kLIyaJt3VoGD8sqrHnhKPjZUQ0RE6mu4.png" group-title="Digital TV", Amarin
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb1-live-mv.v2h-cdn.com/hls/ffad/vibomi/vibomi.m3u8
+
+#EXTINF:-1 tvg-chno="35" ch-number="35" tvg-id="7HD.th" tvg-name="7HD" tvg-logo="https://media-mvtv.imgix.net/channel/134_y_YTkIZJDsbmX26owPRpAFSfW0eyz95vn4.png" group-title="Digital TV", 7HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb1-live-mv.v2h-cdn.com/hls/ffac/gohg/gohg.m3u8
+
+#EXTINF:-1 tvg-chno="36" ch-number="36" tvg-id="PPTV.th" tvg-name="PPTV" tvg-logo="https://media-mvtv.imgix.net/channel/135_y_7hl4KHdwBqS0VGNCskrDLyci538zY2Qx.png" group-title="Digital TV", PPTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb1-live-mv.v2h-cdn.com/hls/ffab/rurumuu/rurumuu.m3u8
+
+#EXTINF:-1 tvg-chno="101" ch-number="101" tvg-id="MVLAO.th" tvg-name="MVLAO" tvg-logo="https://media-mvtv.imgix.net/channel/33_y_H4Rw5iJ7py10NvGAPEhWbYD6SgfarXOc.png" group-title="Digital TV", MVLAO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+http://edge2a.v2h-cdn.com/mvlao/mvlao.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="102" ch-number="102" tvg-id="MVM.th" tvg-name="MVM" tvg-logo="https://media-mvtv.imgix.net/channel/34_y_PNWygduIqYU4DxtCrMoRzp60JFbkAGHO.png" group-title="Digital TV", MVM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb1-live-mv.v2h-cdn.com/hls/feff/mvm/mvm.m3u8
+
+#EXTINF:-1 tvg-chno="104" ch-number="104" tvg-id="France 24.th" tvg-name="France 24" tvg-logo="https://media-mvtv.imgix.net/channel/151_y_YrFS8xk32BmplLV4NcHgdXRsuU7TvWZ5.png" group-title="Digital TV", France 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+http://edge2a.v2h-cdn.com/france24/france24.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="105" ch-number="105" tvg-id="CNA.th" tvg-name="CNA" tvg-logo="https://media-mvtv.imgix.net/channel/152_y_zynZw6RpjUoxHbGMh28eCKk9BlqIXJAa.png" group-title="Digital TV", CNA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://d2e1asnsl7br7b.cloudfront.net/4e4e0baa3d7b4c129b4f5655219e083d/index.m3u8
+
+#EXTINF:-1 tvg-chno="106" ch-number="106" tvg-id="NHK WORLD.th" tvg-name="NHK WORLD" tvg-logo="https://media-mvtv.imgix.net/channel/155_y_ERge294wz1fsLvyCjX3DStPGcMmYFIKo.jpg" group-title="Digital TV", NHK WORLD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
+
+#EXTINF:-1 tvg-chno="107" ch-number="107" tvg-id="CCTV4.th" tvg-name="CCTV4" tvg-logo="https://media-mvtv.imgix.net/channel/154_y_lIpB1wRXh7vQUYcAkzxLd8EVbg9Gsa0u.png" group-title="Digital TV", CCTV4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+http://edge2a.v2h-cdn.com/cctv4/cctv4.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="201" ch-number="201" tvg-id="DLTV1.th" tvg-name="DLTV1" tvg-logo="https://media-mvtv.imgix.net/channel/136_y_tPkVabFhc7iUGQdmlEDC5IxvJZj4326M.png" group-title="Digital TV", DLTV1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv01.m3u8
+
+#EXTINF:-1 tvg-chno="202" ch-number="202" tvg-id="DLTV2.th" tvg-name="DLTV2" tvg-logo="https://media-mvtv.imgix.net/channel/137_y_yQOMjhFVupi8I1oal5TScnbkfAYtJC2v.png" group-title="Digital TV", DLTV2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv02.m3u8
+
+#EXTINF:-1 tvg-chno="203" ch-number="203" tvg-id="DLTV3.th" tvg-name="DLTV3" tvg-logo="https://media-mvtv.imgix.net/channel/138_y_NrPWRcyIBzbd5kJ3n8MqHDOmoVpA19fS.png" group-title="Digital TV", DLTV3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv03.m3u8
+
+#EXTINF:-1 tvg-chno="204" ch-number="204" tvg-id="DLTV4.th" tvg-name="DLTV4" tvg-logo="https://media-mvtv.imgix.net/channel/139_y_gx6RdEWuPqjBnAwoCI2mrltX5vJU4bDO.png" group-title="Digital TV", DLTV4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv04.m3u8
+
+#EXTINF:-1 tvg-chno="205" ch-number="205" tvg-id="DLTV5.th" tvg-name="DLTV5" tvg-logo="https://media-mvtv.imgix.net/channel/140_y_0NYqGlHdDfQeZFoSUcMWsx1rtOyTXb78.png" group-title="Digital TV", DLTV5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv05.m3u8
+
+#EXTINF:-1 tvg-chno="206" ch-number="206" tvg-id="DLTV6.th" tvg-name="DLTV6" tvg-logo="https://media-mvtv.imgix.net/channel/141_y_gIp8YiEP6MQsdeb9hjKcBFmUHVw1kNxy.png" group-title="Digital TV", DLTV6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv06.m3u8
+
+#EXTINF:-1 tvg-chno="207" ch-number="207" tvg-id="DLTV7.th" tvg-name="DLTV7" tvg-logo="https://media-mvtv.imgix.net/channel/142_y_U53zK2mOiFQ9xsCMS7AJrvTtoEf6dpIc.png" group-title="Digital TV", DLTV7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv07.m3u8
+
+#EXTINF:-1 tvg-chno="208" ch-number="208" tvg-id="DLTV8.th" tvg-name="DLTV8" tvg-logo="https://media-mvtv.imgix.net/channel/143_y_k4YNqBSgRW1OndxQuU6Pac0CMJVKIf57.png" group-title="Digital TV", DLTV8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv08.m3u8
+
+#EXTINF:-1 tvg-chno="209" ch-number="209" tvg-id="DLTV9.th" tvg-name="DLTV9" tvg-logo="https://media-mvtv.imgix.net/channel/144_y_9yo8mDwnI5OLgCHKvfsZ42BMXTzEbrSe.png" group-title="Digital TV", DLTV9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv09.m3u8
+
+#EXTINF:-1 tvg-chno="210" ch-number="210" tvg-id="DLTV10.th" tvg-name="DLTV10" tvg-logo="https://media-mvtv.imgix.net/channel/145_y_9Fkli2DoLIP0EX56AHW74MhquQKfng1a.png" group-title="Digital TV", DLTV10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv10.m3u8
+
+#EXTINF:-1 tvg-chno="211" ch-number="211" tvg-id="DLTV11.th" tvg-name="DLTV11" tvg-logo="https://media-mvtv.imgix.net/channel/146_y_5LVm0hDdr2N19IOlU3MAtqscKSk6xgZe.png" group-title="Digital TV", DLTV11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv11.m3u8
+
+#EXTINF:-1 tvg-chno="212" ch-number="212" tvg-id="DLTV12.th" tvg-name="DLTV12" tvg-logo="https://media-mvtv.imgix.net/channel/147_y_Uel5LZmKGoutv2PJiFIx60jayQbpnzqT.png" group-title="Digital TV", DLTV12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv12.m3u8
+
+#EXTINF:-1 tvg-chno="213" ch-number="213" tvg-id="DLTV13.th" tvg-name="DLTV13" tvg-logo="https://media-mvtv.imgix.net/channel/148_y_23K7iaWFMTnyxjfH5NIhUpCgZc8SB4s9.png" group-title="Digital TV", DLTV13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv13.m3u8
+
+#EXTINF:-1 tvg-chno="214" ch-number="214" tvg-id="DLTV14.th" tvg-name="DLTV14" tvg-logo="https://media-mvtv.imgix.net/channel/149_y_EzhGev4MFkQUOR08CdZisfP5Lnw9Jx6A.png" group-title="Digital TV", DLTV14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv14.m3u8
+
+#EXTINF:-1 tvg-chno="215" ch-number="215" tvg-id="DLTV15.th" tvg-name="DLTV15" tvg-logo="https://media-mvtv.imgix.net/channel/150_y_eUWs21cyV38ARS0OZmtgILodzKiJqfaD.png" group-title="Digital TV", DLTV15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv15.m3u8
+
+#EXTINF:-1 tvg-chno="999" ch-number="999" tvg-id="IPTV-THAI.th" tvg-name="IPTV-THAI" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/iptvth.png" group-title="Digital TV", IPTV-THAI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/intro.mp4
+
+#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
+#EXTINF:-1 tvg-name="ABC (WABC)" tvg-logo="https://live.fanmingming.cn/tv/ABC (WABC).png",ABC (WABC)
+http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+#EXTINF:-1 tvg-name="ACC NETWORK" tvg-logo="https://live.fanmingming.cn/tv/ACC NETWORK.png",ACC NETWORK
+http://fl3.moveonjoy.com/ACC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-name="AMC" tvg-logo="https://live.fanmingming.cn/tv/AMC.png",AMC
+http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-name="American Heroes Channel" tvg-logo="https://live.fanmingming.cn/tv/American Heroes Channel.png",American Heroes Channel
+http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8
+#EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://live.fanmingming.cn/tv/Animal Planet.png",Animal Planet
+http://fl3.moveonjoy.com/Animal_Planet/index.m3u8
+#EXTINF:-1 tvg-name="Antenna" tvg-logo="https://live.fanmingming.cn/tv/Antenna.png",Antenna
+http://fl3.moveonjoy.com/Antenna/index.m3u8
+#EXTINF:-1 tvg-name="Aspire" tvg-logo="https://live.fanmingming.cn/tv/Aspire.png",Aspire
+http://fl3.moveonjoy.com/Aspire/index.m3u8
+#EXTINF:-1 tvg-name="BBC AMERICA" tvg-logo="https://live.fanmingming.cn/tv/BBC AMERICA.png",BBC AMERICA
+http://fl3.moveonjoy.com/BBC_AMERICA/index.m3u8
+#EXTINF:-1 tvg-name="BBC WORLD NEWS" tvg-logo="https://live.fanmingming.cn/tv/BBC WORLD NEWS.png",BBC WORLD NEWS
+http://fl3.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS" tvg-logo="https://live.fanmingming.cn/tv/BEIN SPORTS.png",BEIN SPORTS
+http://fl3.moveonjoy.com/BEIN_SPORTS/index.m3u8
+#EXTINF:-1 tvg-name="BET" tvg-logo="https://live.fanmingming.cn/tv/BET.png",BET
+http://fl3.moveonjoy.com/BET_EAST/index.m3u8
+#EXTINF:-1 tvg-name="BET GOSPEL" tvg-logo="https://live.fanmingming.cn/tv/BET GOSPEL.png",BET GOSPEL
+http://fl3.moveonjoy.com/BET_GOSPEL/index.m3u8
+#EXTINF:-1 tvg-name="BET HER" tvg-logo="https://live.fanmingming.cn/tv/BET HER.png",BET HER
+http://fl3.moveonjoy.com/BET_HER/index.m3u8
+#EXTINF:-1 tvg-name="BET Jams" tvg-logo="https://live.fanmingming.cn/tv/BET Jams.png",BET Jams
+http://fl3.moveonjoy.com/BET_Jams/index.m3u8
+#EXTINF:-1 tvg-name="BET SOUL" tvg-logo="https://live.fanmingming.cn/tv/BET SOUL.png",BET SOUL
+http://fl3.moveonjoy.com/BET_SOUL/index.m3u8
+#EXTINF:-1 tvg-name="Big Ten Network HD" tvg-logo="https://live.fanmingming.cn/tv/Big Ten Network HD.png",Big Ten Network HD
+http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
+#EXTINF:-1 tvg-name="BLOOMBERG" tvg-logo="https://live.fanmingming.cn/tv/BLOOMBERG.png",BLOOMBERG
+http://fl3.moveonjoy.com/BLOOMBERG/index.m3u8
+#EXTINF:-1 tvg-name="Boomerang" tvg-logo="https://live.fanmingming.cn/tv/Boomerang.png",Boomerang
+http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
+#EXTINF:-1 tvg-name="Bounce" tvg-logo="https://live.fanmingming.cn/tv/Bounce.png",Bounce
+http://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8
+#EXTINF:-1 tvg-name="BRAVO" tvg-logo="https://live.fanmingming.cn/tv/BRAVO.png",BRAVO
+http://fl3.moveonjoy.com/BRAVO/index.m3u8
+#EXTINF:-1 tvg-name="Buzzr" tvg-logo="https://live.fanmingming.cn/tv/Buzzr.png",Buzzr
+http://fl3.moveonjoy.com/Buzzr/index.m3u8
+#EXTINF:-1 tvg-name="C-SPAN" tvg-logo="https://live.fanmingming.cn/tv/C-SPAN.png",C-SPAN
+http://fl3.moveonjoy.com/C-SPAN/index.m3u8
+#EXTINF:-1 tvg-name="CARTOON NETWORK" tvg-logo="https://live.fanmingming.cn/tv/CARTOON NETWORK.png",CARTOON NETWORK
+http://fl3.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+#EXTINF:-1 tvg-name="CBS" tvg-logo="https://live.fanmingming.cn/tv/CBS.png",CBS
+http://fl3.moveonjoy.com/CBSEAST/index.m3u8
+#EXTINF:-1 tvg-name="CBS News" tvg-logo="https://live.fanmingming.cn/tv/CBS News.png",CBS News
+http://fl3.moveonjoy.com/CBS_News/index.m3u8
+#EXTINF:-1 tvg-name="CBS SPORTS NETWORK" tvg-logo="https://live.fanmingming.cn/tv/CBS SPORTS NETWORK.png",CBS SPORTS NETWORK
+http://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 tvg-name="CINEMAX EAST" tvg-logo="https://live.fanmingming.cn/tv/CINEMAX EAST.png",CINEMAX EAST
+http://fl3.moveonjoy.com/CINEMAX_EAST/index.m3u8
+#EXTINF:-1 tvg-name="CINEMAX EAST" tvg-logo="https://live.fanmingming.cn/tv/CINEMAX EAST.png",CINEMAX EAST
+http://fl3.moveonjoy.com/CINEMAX/index.m3u8
+#EXTINF:-1 tvg-name="CINEMAX MOREMAX" tvg-logo="https://live.fanmingming.cn/tv/CINEMAX MOREMAX.png",CINEMAX MOREMAX
+http://fl3.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
+#EXTINF:-1 tvg-name="CINEMAX WEST" tvg-logo="https://live.fanmingming.cn/tv/CINEMAX WEST.png",CINEMAX WEST
+http://fl3.moveonjoy.com/CINEMAX_WEST/index.m3u8
+#EXTINF:-1 tvg-name="Cleo TV" tvg-logo="https://live.fanmingming.cn/tv/Cleo TV.png",Cleo TV
+http://fl3.moveonjoy.com/Cleo_TV/index.m3u8
+#EXTINF:-1 tvg-name="CMT" tvg-logo="https://live.fanmingming.cn/tv/CMT.png",CMT
+http://fl3.moveonjoy.com/CMT/index.m3u8
+#EXTINF:-1 tvg-name="CNBC FHD" tvg-logo="https://live.fanmingming.cn/tv/CNBC FHD.png",CNBC FHD
+http://fl5.moveonjoy.com/CNBC/index.m3u8
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://live.fanmingming.cn/tv/CNN.png",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-name="CNN INTERNATIONAL" tvg-logo="https://live.fanmingming.cn/tv/CNN INTERNATIONAL.png",CNN INTERNATIONAL
+http://fl3.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
+#EXTINF:-1 tvg-name="COMEDY CENTRAL" tvg-logo="https://live.fanmingming.cn/tv/COMEDY CENTRAL.png",COMEDY CENTRAL
+http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
+#EXTINF:-1 tvg-name="COMET" tvg-logo="https://live.fanmingming.cn/tv/COMET.png",COMET
+http://fl3.moveonjoy.com/COMET/index.m3u8
+#EXTINF:-1 tvg-name="COOKING" tvg-logo="https://live.fanmingming.cn/tv/COOKING.png",COOKING
+http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-name="COURT TV" tvg-logo="https://live.fanmingming.cn/tv/COURT TV.png",COURT TV
+http://fl3.moveonjoy.com/COURT_TV/index.m3u8
+#EXTINF:-1 tvg-name="COZI TV" tvg-logo="https://live.fanmingming.cn/tv/COZI TV.png",COZI TV
+http://fl3.moveonjoy.com/COZI_TV/index.m3u8
+#EXTINF:-1 tvg-name="CRAVE 1" tvg-logo="https://live.fanmingming.cn/tv/CRAVE 1.png",CRAVE 1
+http://fl3.moveonjoy.com/CRAVE_1/index.m3u8
+#EXTINF:-1 tvg-name="CRAVE 2" tvg-logo="https://live.fanmingming.cn/tv/CRAVE 2.png",CRAVE 2
+http://fl3.moveonjoy.com/CRAVE_2/index.m3u8
+#EXTINF:-1 tvg-name="CRAVE 3" tvg-logo="https://live.fanmingming.cn/tv/CRAVE 3.png",CRAVE 3
+http://fl3.moveonjoy.com/CRAVE_3/index.m3u8
+#EXTINF:-1 tvg-name="CRAVE 4" tvg-logo="https://live.fanmingming.cn/tv/CRAVE 4.png",CRAVE 4
+http://fl3.moveonjoy.com/CRAVE_4/index.m3u8
+#EXTINF:-1 tvg-name="Crime + Investigation" tvg-logo="https://live.fanmingming.cn/tv/Crime + Investigation.png",Crime + Investigation
+http://fl3.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8
+#EXTINF:-1 tvg-name="Curiosity Stream" tvg-logo="https://live.fanmingming.cn/tv/Curiosity Stream.png",Curiosity Stream
+http://fl3.moveonjoy.com/Curiosity_Stream/index.m3u8
+#EXTINF:-1 tvg-name="Destination America" tvg-logo="https://live.fanmingming.cn/tv/Destination America.png",Destination America
+http://fl3.moveonjoy.com/Destination_America/index.m3u8
+#EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="https://live.fanmingming.cn/tv/Discovery Channel.png",Discovery Channel
+http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
+#EXTINF:-1 tvg-name="DISCOVERY FAMILY CHANNEL" tvg-logo="https://live.fanmingming.cn/tv/DISCOVERY FAMILY CHANNEL.png",DISCOVERY FAMILY CHANNEL
+http://fl3.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-name="DISCOVERY LIFE" tvg-logo="https://live.fanmingming.cn/tv/DISCOVERY LIFE.png",DISCOVERY LIFE
+http://fl3.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
+#EXTINF:-1 tvg-name="Discovery Science" tvg-logo="https://live.fanmingming.cn/tv/Discovery Science.png",Discovery Science
+http://fl3.moveonjoy.com/Discovery_Science/index.m3u8
+#EXTINF:-1 tvg-name="DISNEY CHANNEL" tvg-logo="https://live.fanmingming.cn/tv/DISNEY CHANNEL.png",DISNEY CHANNEL
+http://fl3.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-name="DISNEY JR" tvg-logo="https://live.fanmingming.cn/tv/DISNEY JR.png",DISNEY JR
+http://fl3.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:-1 tvg-name="DISNEY XD" tvg-logo="https://live.fanmingming.cn/tv/DISNEY XD.png",DISNEY XD
+http://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
+#EXTINF:-1 tvg-name="DIY" tvg-logo="https://live.fanmingming.cn/tv/DIY.png",DIY
+http://fl3.moveonjoy.com/DIY/index.m3u8
+#EXTINF:-1 tvg-name="E ENTERTAINMENT TELEVISION" tvg-logo="https://live.fanmingming.cn/tv/E ENTERTAINMENT TELEVISION.png",E ENTERTAINMENT TELEVISION
+http://fl3.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://live.fanmingming.cn/tv/ESPN.png",ESPN
+http://41.205.93.154/ESPN/index.m3u8
+#EXTINF:-1 tvg-name="ESPN 2" tvg-logo="https://live.fanmingming.cn/tv/ESPN 2.png",ESPN 2
+http://fl3.moveonjoy.com/ESPN_2/index.m3u8
+#EXTINF:-1 tvg-name="ESPN NEWS" tvg-logo="https://live.fanmingming.cn/tv/ESPN NEWS.png",ESPN NEWS
+http://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
+#EXTINF:-1 tvg-name="ESPN U" tvg-logo="https://live.fanmingming.cn/tv/ESPN U.png",ESPN U
+http://fl3.moveonjoy.com/ESPN_U/index.m3u8
+#EXTINF:-1 tvg-name="FOOD NETWORK" tvg-logo="https://live.fanmingming.cn/tv/FOOD NETWORK.png",FOOD NETWORK
+http://fl3.moveonjoy.com/FOOD_NETWORK/index.m3u8
+#EXTINF:-1 tvg-name="FOX (WNYW)" tvg-logo="https://live.fanmingming.cn/tv/FOX (WNYW).png",FOX (WNYW)
+http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
+#EXTINF:-1 tvg-name="FOX Business Network" tvg-logo="https://live.fanmingming.cn/tv/FOX Business Network.png",FOX Business Network
+http://fl3.moveonjoy.com/FOX_Business_Network/index.m3u8
+#EXTINF:-1 tvg-name="FOX SOUL" tvg-logo="https://live.fanmingming.cn/tv/FOX SOUL.png",FOX SOUL
+http://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
+#EXTINF:-1 tvg-name="Freeform" tvg-logo="https://live.fanmingming.cn/tv/Freeform.png",Freeform
+http://fl3.moveonjoy.com/FREE_FORM/index.m3u8
+#EXTINF:-1 tvg-name="FS1" tvg-logo="https://live.fanmingming.cn/tv/FS1.png",FS1
+http://fl3.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 tvg-name="Fuse" tvg-logo="https://live.fanmingming.cn/tv/Fuse.png",Fuse
+http://fl3.moveonjoy.com/FUSE/index.m3u8
+#EXTINF:-1 tvg-name="FX" tvg-logo="https://live.fanmingming.cn/tv/FX.png",FX
+http://fl3.moveonjoy.com/FX/index.m3u8
+#EXTINF:-1 tvg-name="FXM" tvg-logo="https://live.fanmingming.cn/tv/FXM.png",FXM
+http://fl3.moveonjoy.com/FX_MOVIE/index.m3u8
+#EXTINF:-1 tvg-name="FXX" tvg-logo="https://live.fanmingming.cn/tv/FXX.png",FXX
+http://fl3.moveonjoy.com/FXX/index.m3u8
+#EXTINF:-1 tvg-name="FYI FHD" tvg-logo="https://live.fanmingming.cn/tv/FYI FHD.png",FYI FHD
+http://fl3.moveonjoy.com/FYI/index.m3u8
+#EXTINF:-1 tvg-name="GAME SHOW NETWORK" tvg-logo="https://live.fanmingming.cn/tv/GAME SHOW NETWORK.png",GAME SHOW NETWORK
+http://fl5.moveonjoy.com/GAME_SHOW_NETWORK/index.m3u8
+#EXTINF:-1 tvg-name="getTV" tvg-logo="https://live.fanmingming.cn/tv/getTV.png",getTV
+http://fl3.moveonjoy.com/GET_TV/index.m3u8
+#EXTINF:-1 tvg-name="GRIT TV" tvg-logo="https://live.fanmingming.cn/tv/GRIT TV.png",GRIT TV
+http://fl3.moveonjoy.com/GRIT_TV/index.m3u8
+#EXTINF:-1 tvg-name="Hallmark Channel" tvg-logo="https://live.fanmingming.cn/tv/Hallmark Channel.png",Hallmark Channel
+http://fl3.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-name="Hallmark Family" tvg-logo="https://live.fanmingming.cn/tv/Hallmark Family.png",Hallmark Family
+http://fl3.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
+#EXTINF:-1 tvg-name="Hallmark Mystery" tvg-logo="https://live.fanmingming.cn/tv/Hallmark Mystery.png",Hallmark Mystery
+http://fl3.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
+#EXTINF:-1 tvg-name="HBO" tvg-logo="https://live.fanmingming.cn/tv/HBO.png",HBO
+http://fl3.moveonjoy.com/HBO/index.m3u8
+#EXTINF:-1 tvg-name="HBO Comedy" tvg-logo="https://live.fanmingming.cn/tv/HBO Comedy.png",HBO Comedy
+http://fl3.moveonjoy.com/HBO_COMEDY/index.m3u8
+#EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://live.fanmingming.cn/tv/HBO Family.png",HBO Family
+http://fl3.moveonjoy.com/HBO_FAMILY/index.m3u8
+#EXTINF:-1 tvg-name="HBO Zone" tvg-logo="https://live.fanmingming.cn/tv/HBO Zone.png",HBO Zone
+http://fl3.moveonjoy.com/HBO_ZONE/index.m3u8
+#EXTINF:-1 tvg-name="HBO2" tvg-logo="https://live.fanmingming.cn/tv/HBO2.png",HBO2
+http://fl3.moveonjoy.com/HBO_2/index.m3u8
+#EXTINF:-1 tvg-name="HGTV" tvg-logo="https://live.fanmingming.cn/tv/HGTV.png",HGTV
+http://fl3.moveonjoy.com/HGTV/index.m3u8
+#EXTINF:-1 tvg-name="HLN" tvg-logo="https://live.fanmingming.cn/tv/HLN.png",HLN
+http://fl3.moveonjoy.com/HLN/index.m3u8
+#EXTINF:-1 tvg-name="HSN" tvg-logo="https://live.fanmingming.cn/tv/HSN.png",HSN
+http://fl3.moveonjoy.com/HSN/index.m3u8
+#EXTINF:-1 tvg-name="ID (Investigation Discovery)" tvg-logo="https://live.fanmingming.cn/tv/ID (Investigation Discovery).png",ID (Investigation Discovery)
+http://fl3.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
+#EXTINF:-1 tvg-name="INSP TV" tvg-logo="https://live.fanmingming.cn/tv/INSP TV.png",INSP TV
+http://fl3.moveonjoy.com/INSP/index.m3u8
+#EXTINF:-1 tvg-name="ION" tvg-logo="https://live.fanmingming.cn/tv/ION.png",ION
+http://fl3.moveonjoy.com/ION_TV/index.m3u8
+#EXTINF:-1 tvg-name="ION Plus" tvg-logo="https://live.fanmingming.cn/tv/ION Plus.png",ION Plus
+http://fl3.moveonjoy.com/ION_Plus/index.m3u8
+#EXTINF:-1 tvg-name="Laff TV" tvg-logo="https://live.fanmingming.cn/tv/Laff TV.png",Laff TV
+http://72.46.118.193/Laff/index.m3u8
+#EXTINF:-1 tvg-name="Lifetime" tvg-logo="https://live.fanmingming.cn/tv/Lifetime.png",Lifetime
+http://fl3.moveonjoy.com/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-name="Lifetime Movies Network" tvg-logo="https://live.fanmingming.cn/tv/Lifetime Movies Network.png",Lifetime Movies Network
+http://fl3.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
+#EXTINF:-1 tvg-name="LOVE NATURE" tvg-logo="https://live.fanmingming.cn/tv/LOVE NATURE.png",LOVE NATURE
+http://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
+#EXTINF:-1 tvg-name="Marquee Sports Network" tvg-logo="https://live.fanmingming.cn/tv/Marquee Sports Network.png",Marquee Sports Network
+http://fl5.moveonjoy.com/MARQUEE_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 tvg-name="MAVTV" tvg-logo="https://live.fanmingming.cn/tv/MAVTV.png",MAVTV
+http://fl3.moveonjoy.com/MAV_TV/index.m3u8
+#EXTINF:-1 tvg-name="MeTV" tvg-logo="https://live.fanmingming.cn/tv/MeTV.png",MeTV
+http://fl3.moveonjoy.com/ME_TV/index.m3u8
+#EXTINF:-1 tvg-name="MGM+" tvg-logo="https://live.fanmingming.cn/tv/MGM+.png",MGM+
+http://fl3.moveonjoy.com/EPIX/index.m3u8
+#EXTINF:-1 tvg-name="MGM+ (Stream 2)" tvg-logo="https://live.fanmingming.cn/tv/MGM+ (Stream 2).png",MGM+ (Stream 2)
+http://fl3.moveonjoy.com/EPIX_2/index.m3u8
+#EXTINF:-1 tvg-name="MGM+ Drive-In" tvg-logo="https://live.fanmingming.cn/tv/MGM+ Drive-In.png",MGM+ Drive-In
+http://fl3.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
+#EXTINF:-1 tvg-name="MGM+ HITS" tvg-logo="https://live.fanmingming.cn/tv/MGM+ HITS.png",MGM+ HITS
+http://fl3.moveonjoy.com/EPIX_HITS/index.m3u8
+#EXTINF:-1 tvg-name="MLB 1" tvg-logo="https://live.fanmingming.cn/tv/MLB 1.png",MLB 1
+http://fl3.moveonjoy.com/MLB_1/index.m3u8
+#EXTINF:-1 tvg-name="MLB 2" tvg-logo="https://live.fanmingming.cn/tv/MLB 2.png",MLB 2
+http://fl3.moveonjoy.com/MLB_2/index.m3u8
+#EXTINF:-1 tvg-name="MLB 3" tvg-logo="https://live.fanmingming.cn/tv/MLB 3.png",MLB 3
+http://fl3.moveonjoy.com/MLB_3/index.m3u8
+#EXTINF:-1 tvg-name="MLB Network" tvg-logo="https://live.fanmingming.cn/tv/MLB Network.png",MLB Network
+http://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8
+#EXTINF:-1 tvg-name="MotorTrend" tvg-logo="https://live.fanmingming.cn/tv/MotorTrend.png",MotorTrend
+http://fl3.moveonjoy.com/MOTOR_TREND/index.m3u8
+#EXTINF:-1 tvg-name="MSG" tvg-logo="https://live.fanmingming.cn/tv/MSG.png",MSG
+http://fl3.moveonjoy.com/MSG/index.m3u8
+#EXTINF:-1 tvg-name="MSNBC" tvg-logo="https://live.fanmingming.cn/tv/MSNBC.png",MSNBC
+http://fl3.moveonjoy.com/MSNBC/index.m3u8
+#EXTINF:-1 tvg-name="MTV" tvg-logo="https://live.fanmingming.cn/tv/MTV.png",MTV
+http://fl3.moveonjoy.com/MTV/index.m3u8
+#EXTINF:-1 tvg-name="MTV Live" tvg-logo="https://live.fanmingming.cn/tv/MTV Live.png",MTV Live
+http://fl3.moveonjoy.com/MTV_LIVE/index.m3u8
+#EXTINF:-1 tvg-name="MTV2" tvg-logo="https://live.fanmingming.cn/tv/MTV2.png",MTV2
+http://fl3.moveonjoy.com/MTV_2/index.m3u8
+#EXTINF:-1 tvg-name="mtvU" tvg-logo="https://live.fanmingming.cn/tv/mtvU.png",mtvU
+http://fl3.moveonjoy.com/MTV_U/index.m3u8
+#EXTINF:-1 tvg-name="MUCH" tvg-logo="https://live.fanmingming.cn/tv/MUCH.png",MUCH
+http://fl1.moveonjoy.com/MUCH/index.m3u8
+#EXTINF:-1 tvg-name="National Geographic" tvg-logo="https://live.fanmingming.cn/tv/National Geographic.png",National Geographic
+http://fl3.moveonjoy.com/National_Geographic/index.m3u8
+#EXTINF:-1 tvg-name="National Geographic Wild" tvg-logo="https://live.fanmingming.cn/tv/National Geographic Wild.png",National Geographic Wild
+http://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+#EXTINF:-1 tvg-name="NBA 1" tvg-logo="https://live.fanmingming.cn/tv/NBA 1.png",NBA 1
+http://fl5.moveonjoy.com/NBA_1/index.m3u8
+#EXTINF:-1 tvg-name="NBA 10" tvg-logo="https://live.fanmingming.cn/tv/NBA 10.png",NBA 10
+http://fl5.moveonjoy.com/NBA_10/index.m3u8
+#EXTINF:-1 tvg-name="NBA 11" tvg-logo="https://live.fanmingming.cn/tv/NBA 11.png",NBA 11
+http://fl5.moveonjoy.com/NBA_11/index.m3u8
+#EXTINF:-1 tvg-name="NBA 12" tvg-logo="https://live.fanmingming.cn/tv/NBA 12.png",NBA 12
+http://fl5.moveonjoy.com/NBA_12/index.m3u8
+#EXTINF:-1 tvg-name="NBA 13" tvg-logo="https://live.fanmingming.cn/tv/NBA 13.png",NBA 13
+http://fl5.moveonjoy.com/NBA_13/index.m3u8
+#EXTINF:-1 tvg-name="NBA 2" tvg-logo="https://live.fanmingming.cn/tv/NBA 2.png",NBA 2
+http://fl5.moveonjoy.com/NBA_2/index.m3u8
+#EXTINF:-1 tvg-name="NBA 3" tvg-logo="https://live.fanmingming.cn/tv/NBA 3.png",NBA 3
+http://fl5.moveonjoy.com/NBA_3/index.m3u8
+#EXTINF:-1 tvg-name="NBA 4" tvg-logo="https://live.fanmingming.cn/tv/NBA 4.png",NBA 4
+http://fl5.moveonjoy.com/NBA_4/index.m3u8
+#EXTINF:-1 tvg-name="NBA 5" tvg-logo="https://live.fanmingming.cn/tv/NBA 5.png",NBA 5
+http://fl5.moveonjoy.com/NBA_5/index.m3u8
+#EXTINF:-1 tvg-name="NBA 6" tvg-logo="https://live.fanmingming.cn/tv/NBA 6.png",NBA 6
+http://fl5.moveonjoy.com/NBA_6/index.m3u8
+#EXTINF:-1 tvg-name="NBA 7" tvg-logo="https://live.fanmingming.cn/tv/NBA 7.png",NBA 7
+http://fl5.moveonjoy.com/NBA_7/index.m3u8
+#EXTINF:-1 tvg-name="NBA 8" tvg-logo="https://live.fanmingming.cn/tv/NBA 8.png",NBA 8
+http://fl5.moveonjoy.com/NBA_8/index.m3u8
+#EXTINF:-1 tvg-name="NBA 9" tvg-logo="https://live.fanmingming.cn/tv/NBA 9.png",NBA 9
+http://fl5.moveonjoy.com/NBA_9/index.m3u8
+#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://live.fanmingming.cn/tv/NBA TV.png",NBA TV
+http://fl3.moveonjoy.com/NBA_TV/index.m3u8
+#EXTINF:-1 tvg-name="NBA TV (Stream 2)" tvg-logo="https://live.fanmingming.cn/tv/NBA TV (Stream 2).png",NBA TV (Stream 2)
+http://fl5.moveonjoy.com/NBA_TV/index.m3u8
+#EXTINF:-1 tvg-name="NBC" tvg-logo="https://live.fanmingming.cn/tv/NBC.png",NBC
+http://fl3.moveonjoy.com/NBC_EAST/index.m3u8
+#EXTINF:-1 tvg-name="NBC Golf" tvg-logo="https://live.fanmingming.cn/tv/NBC Golf.png",NBC Golf
+http://fl3.moveonjoy.com/GOLF_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-name="NewsNation" tvg-logo="https://live.fanmingming.cn/tv/NewsNation.png",NewsNation
+http://fl3.moveonjoy.com/NEWS_NATION/index.m3u8
+#EXTINF:-1 tvg-name="NFL 1" tvg-logo="https://live.fanmingming.cn/tv/NFL 1.png",NFL 1
+http://fl3.moveonjoy.com/NFL_1/index.m3u8
+#EXTINF:-1 tvg-name="NFl 10" tvg-logo="https://live.fanmingming.cn/tv/NFl 10.png",NFl 10
+http://fl3.moveonjoy.com/NFL_10/index.m3u8
+#EXTINF:-1 tvg-name="NFL 11" tvg-logo="https://live.fanmingming.cn/tv/NFL 11.png",NFL 11
+http://fl3.moveonjoy.com/NFL_11/index.m3u8
+#EXTINF:-1 tvg-name="NFL 12" tvg-logo="https://live.fanmingming.cn/tv/NFL 12.png",NFL 12
+http://fl3.moveonjoy.com/NFL_12/index.m3u8
+#EXTINF:-1 tvg-name="NFL 13" tvg-logo="https://live.fanmingming.cn/tv/NFL 13.png",NFL 13
+http://fl3.moveonjoy.com/NFL_13/index.m3u8
+#EXTINF:-1 tvg-name="NFL 14" tvg-logo="https://live.fanmingming.cn/tv/NFL 14.png",NFL 14
+http://fl3.moveonjoy.com/NFL_14/index.m3u8
+#EXTINF:-1 tvg-name="NFL 15" tvg-logo="https://live.fanmingming.cn/tv/NFL 15.png",NFL 15
+http://fl3.moveonjoy.com/NFL_15/index.m3u8
+#EXTINF:-1 tvg-name="NFL 2" tvg-logo="https://live.fanmingming.cn/tv/NFL 2.png",NFL 2
+http://fl3.moveonjoy.com/NFL_2/index.m3u8
+#EXTINF:-1 tvg-name="NFL 3" tvg-logo="https://live.fanmingming.cn/tv/NFL 3.png",NFL 3
+http://fl3.moveonjoy.com/NFL_3/index.m3u8
+#EXTINF:-1 tvg-name="NFL 4" tvg-logo="https://live.fanmingming.cn/tv/NFL 4.png",NFL 4
+http://fl3.moveonjoy.com/NFL_4/index.m3u8
+#EXTINF:-1 tvg-name="NFL 5" tvg-logo="https://live.fanmingming.cn/tv/NFL 5.png",NFL 5
+http://fl3.moveonjoy.com/NFL_5/index.m3u8
+#EXTINF:-1 tvg-name="NFL 6" tvg-logo="https://live.fanmingming.cn/tv/NFL 6.png",NFL 6
+http://fl3.moveonjoy.com/NFL_6/index.m3u8
+#EXTINF:-1 tvg-name="NFL 7" tvg-logo="https://live.fanmingming.cn/tv/NFL 7.png",NFL 7
+http://fl3.moveonjoy.com/NFL_7/index.m3u8
+#EXTINF:-1 tvg-name="NFL 8" tvg-logo="https://live.fanmingming.cn/tv/NFL 8.png",NFL 8
+http://fl3.moveonjoy.com/NFL_8/index.m3u8
+#EXTINF:-1 tvg-name="NFL 9" tvg-logo="https://live.fanmingming.cn/tv/NFL 9.png",NFL 9
+http://fl3.moveonjoy.com/NFL_9/index.m3u8
+#EXTINF:-1 tvg-name="NFL Network" tvg-logo="https://live.fanmingming.cn/tv/NFL Network.png",NFL Network
+http://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-name="NFL RedZone" tvg-logo="https://live.fanmingming.cn/tv/NFL RedZone.png",NFL RedZone
+http://fl3.moveonjoy.com/NFL_RedZone/index.m3u8
+#EXTINF:-1 tvg-name="NHL 1" tvg-logo="https://live.fanmingming.cn/tv/NHL 1.png",NHL 1
+http://fl3.moveonjoy.com/NHL_1/index.m3u8
+#EXTINF:-1 tvg-name="NHL 10" tvg-logo="https://live.fanmingming.cn/tv/NHL 10.png",NHL 10
+http://fl5.moveonjoy.com/NHL_10/index.m3u8
+#EXTINF:-1 tvg-name="NHL 11" tvg-logo="https://live.fanmingming.cn/tv/NHL 11.png",NHL 11
+http://fl5.moveonjoy.com/NHL_11/index.m3u8
+#EXTINF:-1 tvg-name="NHL 13" tvg-logo="https://live.fanmingming.cn/tv/NHL 13.png",NHL 13
+http://fl5.moveonjoy.com/NHL_13/index.m3u8
+#EXTINF:-1 tvg-name="NHL 2" tvg-logo="https://live.fanmingming.cn/tv/NHL 2.png",NHL 2
+http://fl5.moveonjoy.com/NHL_2/index.m3u8
+#EXTINF:-1 tvg-name="NHL 3" tvg-logo="https://live.fanmingming.cn/tv/NHL 3.png",NHL 3
+http://fl3.moveonjoy.com/NHL_3/index.m3u8
+#EXTINF:-1 tvg-name="NHL 4" tvg-logo="https://live.fanmingming.cn/tv/NHL 4.png",NHL 4
+http://fl3.moveonjoy.com/NHL_4/index.m3u8
+#EXTINF:-1 tvg-name="NHL 5" tvg-logo="https://live.fanmingming.cn/tv/NHL 5.png",NHL 5
+http://fl3.moveonjoy.com/NHL_5/index.m3u8
+#EXTINF:-1 tvg-name="NHL 6" tvg-logo="https://live.fanmingming.cn/tv/NHL 6.png",NHL 6
+http://fl3.moveonjoy.com/NHL_6/index.m3u8
+#EXTINF:-1 tvg-name="NHL 7" tvg-logo="https://live.fanmingming.cn/tv/NHL 7.png",NHL 7
+http://fl3.moveonjoy.com/NHL_7/index.m3u8
+#EXTINF:-1 tvg-name="NHL 8" tvg-logo="https://live.fanmingming.cn/tv/NHL 8.png",NHL 8
+http://fl5.moveonjoy.com/NHL_8/index.m3u8
+#EXTINF:-1 tvg-name="NHL 9" tvg-logo="https://live.fanmingming.cn/tv/NHL 9.png",NHL 9
+http://fl3.moveonjoy.com/NHL_9/index.m3u8
+#EXTINF:-1 tvg-name="NHL Network" tvg-logo="https://live.fanmingming.cn/tv/NHL Network.png",NHL Network
+http://fl3.moveonjoy.com/NHL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://live.fanmingming.cn/tv/Nickelodeon.png",Nickelodeon
+http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-name="NickJr" tvg-logo="https://live.fanmingming.cn/tv/NickJr.png",NickJr
+http://fl3.moveonjoy.com/NICK_JR/index.m3u8
+#EXTINF:-1 tvg-name="NickMusic USA" tvg-logo="https://live.fanmingming.cn/tv/NickMusic USA.png",NickMusic USA
+http://fl3.moveonjoy.com/NICK_MUSIC/index.m3u8
+#EXTINF:-1 tvg-name="NickToons" tvg-logo="https://live.fanmingming.cn/tv/NickToons.png",NickToons
+http://fl1.moveonjoy.com/NICKTOONS/index.m3u8
+#EXTINF:-1 tvg-name="Oprah Winfrey Network" tvg-logo="https://live.fanmingming.cn/tv/Oprah Winfrey Network.png",Oprah Winfrey Network
+http://fl3.moveonjoy.com/OWN/index.m3u8
+#EXTINF:-1 tvg-name="Outdoor Channel" tvg-logo="https://live.fanmingming.cn/tv/Outdoor Channel.png",Outdoor Channel
+http://fl3.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-name="OUTER MAX" tvg-logo="https://live.fanmingming.cn/tv/OUTER MAX.png",OUTER MAX
+http://fl3.moveonjoy.com/OUTER_MAX/index.m3u8
+#EXTINF:-1 tvg-name="OUTSIDE TV" tvg-logo="https://live.fanmingming.cn/tv/OUTSIDE TV.png",OUTSIDE TV
+http://fl3.moveonjoy.com/OUTSIDE_TV/index.m3u8
+#EXTINF:-1 tvg-name="Ovation" tvg-logo="https://live.fanmingming.cn/tv/Ovation.png",Ovation
+http://fl3.moveonjoy.com/Ovation/index.m3u8
+#EXTINF:-1 tvg-name="Oxygen" tvg-logo="https://live.fanmingming.cn/tv/Oxygen.png",Oxygen
+http://fl3.moveonjoy.com/OXYGEN/index.m3u8
+#EXTINF:-1 tvg-name="Paramount Network" tvg-logo="https://live.fanmingming.cn/tv/Paramount Network.png",Paramount Network
+http://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1 tvg-name="PPV 1" tvg-logo="https://live.fanmingming.cn/tv/PPV 1.png",PPV 1
+http://fl3.moveonjoy.com/PPV_1/index.m3u8
+#EXTINF:-1 tvg-name="PPV 2" tvg-logo="https://live.fanmingming.cn/tv/PPV 2.png",PPV 2
+http://fl3.moveonjoy.com/PPV_2/index.m3u8
+#EXTINF:-1 tvg-name="PPV 3" tvg-logo="https://live.fanmingming.cn/tv/PPV 3.png",PPV 3
+http://fl3.moveonjoy.com/PPV_3/index.m3u8
+#EXTINF:-1 tvg-name="PPV 5" tvg-logo="https://live.fanmingming.cn/tv/PPV 5.png",PPV 5
+http://fl3.moveonjoy.com/PPV_5/index.m3u8
+#EXTINF:-1 tvg-name="PPV 6" tvg-logo="https://live.fanmingming.cn/tv/PPV 6.png",PPV 6
+http://fl3.moveonjoy.com/PPV_6/index.m3u8
+#EXTINF:-1 tvg-name="Pursuit Channel" tvg-logo="https://live.fanmingming.cn/tv/Pursuit Channel.png",Pursuit Channel
+http://fl3.moveonjoy.com/Pursuit_Channel/index.m3u8
+#EXTINF:-1 tvg-name="QVC" tvg-logo="https://live.fanmingming.cn/tv/QVC.png",QVC
+http://fl3.moveonjoy.com/QVC/index.m3u8
+#EXTINF:-1 tvg-name="ReelzChannel" tvg-logo="https://live.fanmingming.cn/tv/ReelzChannel.png",ReelzChannel
+http://fl3.moveonjoy.com/REELZ/index.m3u8
+#EXTINF:-1 tvg-name="Revolt" tvg-logo="https://live.fanmingming.cn/tv/Revolt.png",Revolt
+http://fl3.moveonjoy.com/REVOLT/index.m3u8
+#EXTINF:-1 tvg-name="Showtime East" tvg-logo="https://live.fanmingming.cn/tv/Showtime East.png",Showtime East
+http://fl3.moveonjoy.com/SHOWTIME/index.m3u8
+#EXTINF:-1 tvg-name="Showtime West" tvg-logo="https://live.fanmingming.cn/tv/Showtime West.png",Showtime West
+http://fl3.moveonjoy.com/SHOWTIME_WEST/index.m3u8
+#EXTINF:-1 tvg-name="Showtime 2" tvg-logo="https://live.fanmingming.cn/tv/Showtime 2.png",Showtime 2
+http://fl3.moveonjoy.com/SHOWTIME_2/index.m3u8
+#EXTINF:-1 tvg-name="Showtime Extreme" tvg-logo="https://live.fanmingming.cn/tv/Showtime Extreme.png",Showtime Extreme
+http://fl3.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
+#EXTINF:-1 tvg-name="Showtime Next" tvg-logo="https://live.fanmingming.cn/tv/Showtime Next.png",Showtime Next
+http://fl3.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+#EXTINF:-1 tvg-name="Showtime Women" tvg-logo="https://live.fanmingming.cn/tv/Showtime Women.png",Showtime Women
+http://fl3.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+#EXTINF:-1 tvg-name="SMITHSONIAN CHANNEL" tvg-logo="https://live.fanmingming.cn/tv/SMITHSONIAN CHANNEL.png",SMITHSONIAN CHANNEL
+http://fl3.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-name="Sony Movie Channel" tvg-logo="https://live.fanmingming.cn/tv/Sony Movie Channel.png",Sony Movie Channel
+http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
+#EXTINF:-1 tvg-name="Sportsman Channel" tvg-logo="https://live.fanmingming.cn/tv/Sportsman Channel.png",Sportsman Channel
+http://fl3.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-name="SportsNet New York" tvg-logo="https://live.fanmingming.cn/tv/SportsNet New York.png",SportsNet New York
+http://fl3.moveonjoy.com/SNY/index.m3u8
+#EXTINF:-1 tvg-name="Start TV" tvg-logo="https://live.fanmingming.cn/tv/Start TV.png",Start TV
+http://fl3.moveonjoy.com/Start_Tv/index.m3u8
+#EXTINF:-1 tvg-name="Starz" tvg-logo="https://live.fanmingming.cn/tv/Starz.png",Starz
+http://fl3.moveonjoy.com/STARZ/index.m3u8
+#EXTINF:-1 tvg-name="Starz Comedy" tvg-logo="https://live.fanmingming.cn/tv/Starz Comedy.png",Starz Comedy
+http://fl3.moveonjoy.com/STARZ_COMEDY/index.m3u8
+#EXTINF:-1 tvg-name="Starz Edge" tvg-logo="https://live.fanmingming.cn/tv/Starz Edge.png",Starz Edge
+http://fl3.moveonjoy.com/STARZ_EDGE/index.m3u8
+#EXTINF:-1 tvg-name="Starz Encore" tvg-logo="https://live.fanmingming.cn/tv/Starz Encore.png",Starz Encore
+http://fl3.moveonjoy.com/STARZ_ENCORE/index.m3u8
+#EXTINF:-1 tvg-name="Starz Encore Action" tvg-logo="https://live.fanmingming.cn/tv/Starz Encore Action.png",Starz Encore Action
+http://fl3.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
+#EXTINF:-1 tvg-name="STARZ ENCORE CLASSIC" tvg-logo="https://live.fanmingming.cn/tv/STARZ ENCORE CLASSIC.png",STARZ ENCORE CLASSIC
+http://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
+#EXTINF:-1 tvg-name="Starz Encore Westerns" tvg-logo="https://live.fanmingming.cn/tv/Starz Encore Westerns.png",Starz Encore Westerns
+http://fl3.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
+#EXTINF:-1 tvg-name="STARZ WEST" tvg-logo="https://live.fanmingming.cn/tv/STARZ WEST.png",STARZ WEST
+http://fl3.moveonjoy.com/STARZ_WEST/index.m3u8
+#EXTINF:-1 tvg-name="SundanceTV" tvg-logo="https://live.fanmingming.cn/tv/SundanceTV.png",SundanceTV
+http://fl3.moveonjoy.com/SUNDANCE/index.m3u8
+#EXTINF:-1 tvg-name="SYFY" tvg-logo="https://live.fanmingming.cn/tv/SYFY.png",SYFY
+http://fl3.moveonjoy.com/SYFY/index.m3u8
+#EXTINF:-1 tvg-name="TBS" tvg-logo="https://live.fanmingming.cn/tv/TBS.png",TBS
+http://fl1.moveonjoy.com/TBS/index.m3u8
+#EXTINF:-1 tvg-name="TCM" tvg-logo="https://live.fanmingming.cn/tv/TCM.png",TCM
+http://fl1.moveonjoy.com/TCM/index.m3u8
+#EXTINF:-1 tvg-name="Tennis Channel" tvg-logo="https://live.fanmingming.cn/tv/Tennis Channel.png",Tennis Channel
+http://fl3.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-name="Tennis Channel (Stream 2)" tvg-logo="https://live.fanmingming.cn/tv/Tennis Channel (Stream 2).png",Tennis Channel (Stream 2)
+http://fl5.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-name="TLC" tvg-logo="https://live.fanmingming.cn/tv/TLC.png",TLC
+http://fl3.moveonjoy.com/TLC/index.m3u8
+#EXTINF:-1 tvg-name="TNT" tvg-logo="https://live.fanmingming.cn/tv/TNT.png",TNT
+http://fl3.moveonjoy.com/TNT/index.m3u8
+#EXTINF:-1 tvg-name="Travel Channel" tvg-logo="https://live.fanmingming.cn/tv/Travel Channel.png",Travel Channel
+http://fl3.moveonjoy.com/Travel_Channel/index.m3u8
+#EXTINF:-1 tvg-name="truTV" tvg-logo="https://live.fanmingming.cn/tv/truTV.png",truTV
+http://fl3.moveonjoy.com/TRU_TV/index.m3u8
+#EXTINF:-1 tvg-name="TSN 1" tvg-logo="https://live.fanmingming.cn/tv/TSN 1.png",TSN 1
+http://fl5.moveonjoy.com/TSN_1/index.m3u8
+#EXTINF:-1 tvg-name="TSN 2" tvg-logo="https://live.fanmingming.cn/tv/TSN 2.png",TSN 2
+http://fl5.moveonjoy.com/TSN_2/index.m3u8
+#EXTINF:-1 tvg-name="TSN 3" tvg-logo="https://live.fanmingming.cn/tv/TSN 3.png",TSN 3
+http://fl5.moveonjoy.com/TSN_3/index.m3u8
+#EXTINF:-1 tvg-name="TSN 4" tvg-logo="https://live.fanmingming.cn/tv/TSN 4.png",TSN 4
+http://fl5.moveonjoy.com/TSN_4/index.m3u8
+#EXTINF:-1 tvg-name="TSN 5" tvg-logo="https://live.fanmingming.cn/tv/TSN 5.png",TSN 5
+http://fl5.moveonjoy.com/TSN_5/index.m3u8
+#EXTINF:-1 tvg-name="TVLand" tvg-logo="https://live.fanmingming.cn/tv/TVLand.png",TVLand
+http://fl3.moveonjoy.com/TV_Land/index.m3u8
+#EXTINF:-1 tvg-name="TVOne" tvg-logo="https://live.fanmingming.cn/tv/TVOne.png",TVOne
+http://fl3.moveonjoy.com/TV_ONE/index.m3u8
+#EXTINF:-1 tvg-name="UP TV" tvg-logo="https://live.fanmingming.cn/tv/UP TV.png",UP TV
+http://fl3.moveonjoy.com/Up_Tv/index.m3u8
+#EXTINF:-1 tvg-name="USA Network" tvg-logo="https://live.fanmingming.cn/tv/USA Network.png",USA Network
+http://fl3.moveonjoy.com/USA_Network/index.m3u8
+#EXTINF:-1 tvg-name="VH1" tvg-logo="https://live.fanmingming.cn/tv/VH1.png",VH1
+http://fl3.moveonjoy.com/VH1/index.m3u8
+#EXTINF:-1 tvg-name="Vice" tvg-logo="https://live.fanmingming.cn/tv/Vice.png",Vice
+http://fl3.moveonjoy.com/VICELAND/index.m3u8
+#EXTINF:-1 tvg-name="W NETWORK" tvg-logo="https://live.fanmingming.cn/tv/W NETWORK.png",W NETWORK
+http://fl3.moveonjoy.com/W_NETWORK/index.m3u8
+#EXTINF:-1 tvg-name="Weather Channel" tvg-logo="https://live.fanmingming.cn/tv/Weather Channel.png",Weather Channel
+http://fl3.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-name="WeTV" tvg-logo="https://live.fanmingming.cn/tv/WeTV.png",WeTV
+http://fl1.moveonjoy.com/WE_TV/index.m3u8
+#EXTINF:-1 tvg-name="WGN" tvg-logo="https://live.fanmingming.cn/tv/WGN.png",WGN
+http://fl3.moveonjoy.com/WGN/index.m3u8
+#EXTINF:-1 tvg-name="WORLD FISHING NETWORK" tvg-logo="https://live.fanmingming.cn/tv/WORLD FISHING NETWORK.png",WORLD FISHING NETWORK
+http://fl3.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
+#EXTINF:-1 tvg-name="YES Network" tvg-logo="https://live.fanmingming.cn/tv/YES Network.png",YES Network
+http://fl3.moveonjoy.com/YES_NETWORK/index.m3u8
+
+
